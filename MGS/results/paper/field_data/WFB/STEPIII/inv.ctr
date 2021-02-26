@@ -1,0 +1,122 @@
+***FILES***
+.\\mesh\paper\Mesh.dat                                                          
+.\\mesh\paper\elec.dat                                                          
+.\\data\paper\field_data.dat                                                         
+.\\results\paper\field_data\WFB\STEPIII                          
+F                ! difference inversion ?
+None                                                                            
+.\\ref\paper\field_data_interpreted.dat                                              
+None                                                                            
+***PARAMETERS***
+   5             ! # cells in x-direction
+   1             ! # cells in z-direction
+ 1.0000          ! smoothing parameter in x-direction
+ 1.0000          ! smoothing parameter in z-direction
+30               ! max. # inversion iterations
+ 1.0000          ! min. data RMS
+T                ! DC inversion ?
+F                ! singularity removal ?
+T                ! robust inversion ?
+T                ! automatic polarity adjustment ?
+F                ! final phase improvement ?
+F                ! individual error ?
+ 1.0000          ! rel. magnitude error level (%)
+0.15000E-03      ! min. abs. magnitude error (ohm)
+0.20000          ! phase error level (mrad)
+F                ! homogeneous background resistivity ?
+ 160.00          ! background magnitude (ohm*m)
+ 0.0000          ! background phase (mrad)
+***FIXED***
+ # wavenumbers :                                 14
+ Inverse Fourier transform range :                4.9999     m
+                                                  269.46     m
+ Background resistivity :                         406.74     ohm*m
+                                                  0.0000     mrad
+ Force negative phase ?                          F
+ Ratio dataset ?                                 F
+ Min. L1 norm                                     1.0000    
+ Min. rel. decrease of data RMS :                0.10000E-01
+ Min. step-length :                              0.10000E-02
+ Min. error in relaxation :                      0.10000E-03
+ Max. # relaxation iterations :                    154
+ Max. # regularization steps :                    20
+ Initial step factor :                           0.50000    
+ Final   step factor :                           0.90000    
+ 
+------------------------------------------------------------------------------------------------------------
+ 
+it.   data RMS    stepsize    lambda      roughn.    CG-steps    mag RMS     pha RMS    - # data    L1-ratio
+ 
+  0    83.62                                                     83.62       0.000         0         1.27    
+ 
+  1    25.12       1.00      0.4576E+05   183.0        24
+  1    23.63       1.00      0.2288E+05   194.8        26
+  1    23.78       1.00      0.1157E+05   205.6        29
+  1    30.47      0.500      0.2288E+05   1088.        26
+ 
+  1    23.63       1.00      0.2288E+05   194.8        26        23.63       0.000         0         1.26    
+ 
+  2    16.62       1.00      0.2288E+05   173.3        23
+  2    13.77       1.00      0.1233E+05   183.9        22
+  2    11.90       1.00       6882.       196.9        20
+  2    10.54       1.00       3943.       213.8        19
+  2    9.576       1.00       2310.       235.6        18
+  2    9.105       1.00       1377.       261.3        19
+  2    9.343       1.00       828.4       290.5        20
+  2    11.28      0.500       1377.       220.4        19
+ 
+  2    9.105       1.00       1377.       261.3        19        9.105       0.000         1         1.19    
+ 
+  3    6.958       1.00       1377.       224.7        15
+  3    6.208       1.00       870.1       241.2        18
+  3    5.511       1.00       561.3       263.6        22
+  3    4.992       1.00       370.1       289.7        24
+  3    4.747       1.00       248.5       320.1        24
+  3    4.908       1.00       168.3       355.7        27
+  3    5.321      0.500       248.5       287.6        24
+ 
+  3    4.747       1.00       248.5       320.1        24        4.747       0.000         0         1.19    
+ 
+  4    3.961       1.00       248.5       273.9        22
+  4    3.528       1.00       174.0       293.8        23
+  4    3.210       1.00       124.4       316.8        23
+  4    2.973       1.00       90.53       341.8        26
+  4    2.836       1.00       66.80       370.0        30
+  4    2.927       1.00       49.71       402.4        38
+  4    3.087      0.500       66.80       343.6        30
+ 
+  4    2.836       1.00       66.80       370.0        30        2.836       0.000         0         1.18    
+ 
+  5    2.419       1.00       66.80       323.6        41
+  5    2.224       1.00       51.18       343.4        40
+  5    2.080       1.00       39.81       365.4        36
+  5    1.967       1.00       31.35       387.9        36
+  5    1.897       1.00       24.94       410.6        47
+  5    1.901       1.00       19.98       438.2        57
+  5    2.007      0.500       24.94       389.3        47
+ 
+  5    1.897       1.00       24.94       410.6        47        1.897       0.000         0         1.17    
+ 
+  6    1.672       1.00       24.94       365.6        61
+  6    1.568       1.00       20.44       384.0        60
+  6    1.488       1.00       16.95       403.7        55
+  6    1.418       1.00       14.19       424.6        45
+  6    1.377       1.00       11.98       441.8        50
+  6    1.346       1.00       10.17       463.2        72
+  6    1.384       1.00       8.671       487.0        85
+  6    1.413      0.500       10.17       435.5        72
+ 
+  6    1.346       1.00       10.17       463.2        72        1.346       0.000         0         1.15    
+ 
+  7    1.208       1.00       10.17       418.0        84
+  7    1.150       1.00       8.844       434.5        79
+  7    1.105       1.00       7.759       451.1        74
+  7    1.069       1.00       6.858       466.9        73
+  7    1.037       1.00       6.098       482.3        52
+  7    1.018       1.00       5.451       495.3        64
+  7    1.005       1.00       4.890       509.0        70
+  7    1.008       1.00       4.397       524.7        91
+  7    1.049      0.500       4.890       484.9        70
+ 
+  7    1.005       1.00       4.890       509.0        70        1.005       0.000         0         1.13    
+ 

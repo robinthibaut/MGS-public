@@ -1,0 +1,49 @@
+***FILES***
+.\\mesh\paper\Mesh.dat                                                          
+.\\mesh\paper\elec.dat                                                          
+.\dataset.dat                                                                   
+.\\results\paper\fwd_scena_msf                              
+F                ! difference inversion ?
+None                                                                            
+None                                                                            
+None                                                                            
+***PARAMETERS***
+   5             ! # cells in x-direction
+   1             ! # cells in z-direction
+ 1.0000          ! smoothing parameter in x-direction
+ 1.0000          ! smoothing parameter in z-direction
+20               ! max. # inversion iterations
+ 1.0000          ! min. data RMS
+T                ! DC inversion ?
+F                ! singularity removal ?
+T                ! robust inversion ?
+T                ! automatic polarity adjustment ?
+F                ! final phase improvement ?
+F                ! individual error ?
+ 1.0000          ! rel. magnitude error level (%)
+0.15000E-03      ! min. abs. magnitude error (ohm)
+0.15000          ! phase error level (mrad)
+F                ! homogeneous background resistivity ?
+ 160.00          ! background magnitude (ohm*m)
+ 0.0000          ! background phase (mrad)
+***FIXED***
+ # wavenumbers :                                 14
+ Inverse Fourier transform range :                4.9999     m
+                                                  269.46     m
+ Background resistivity :                         93.448     ohm*m
+                                                  0.0000     mrad
+ Force negative phase ?                          F
+ Ratio dataset ?                                 F
+ Min. L1 norm                                     1.0000    
+ Min. rel. decrease of data RMS :                0.10000E-01
+ Min. step-length :                              0.10000E-02
+ Min. error in relaxation :                      0.10000E-03
+ Max. # relaxation iterations :                    154
+ Max. # regularization steps :                    20
+ Initial step factor :                           0.50000    
+ Final   step factor :                           0.90000    
+ 
+------------------------------------------------------------------------------------------------------------
+ 
+it.   data RMS    stepsize    lambda      roughn.    CG-steps    mag RMS     pha RMS    - # data    L1-ratio
+ 

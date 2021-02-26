@@ -1,0 +1,2682 @@
+ Iteration   0,   0 : Calculating Potentials
+1096 : correct and change polarity
+   8 : increase standard deviation *  2.3
+   9 : increase standard deviation *  2.3
+  15 : increase standard deviation *  2.4
+  16 : increase standard deviation *  2.2
+  26 : increase standard deviation *  1.6
+  33 : increase standard deviation *  2.8
+  48 : increase standard deviation *  1.9
+  77 : increase standard deviation *  2.0
+  87 : increase standard deviation *  2.1
+  88 : increase standard deviation *  2.2
+  95 : increase standard deviation *  1.8
+ 112 : increase standard deviation *  1.8
+ 115 : increase standard deviation *  2.1
+ 119 : increase standard deviation *  2.2
+ 141 : increase standard deviation *  1.6
+ 148 : increase standard deviation *  2.0
+ 156 : increase standard deviation *  2.2
+ 174 : increase standard deviation *  2.1
+ 186 : increase standard deviation *  1.6
+ 187 : increase standard deviation *  2.3
+ 193 : increase standard deviation *  2.3
+ 203 : increase standard deviation *  1.7
+ 215 : increase standard deviation *  1.9
+ 223 : increase standard deviation *  2.5
+ 224 : increase standard deviation *  2.4
+ 232 : increase standard deviation *  2.6
+ 233 : increase standard deviation *  2.3
+ 244 : increase standard deviation *  2.4
+ 262 : increase standard deviation *  1.7
+ 263 : increase standard deviation *  2.0
+ 302 : increase standard deviation *  2.2
+ 304 : increase standard deviation *  2.2
+ 308 : increase standard deviation *  2.2
+ 309 : increase standard deviation *  2.1
+ 346 : increase standard deviation *  2.1
+ 347 : increase standard deviation *  2.1
+ 362 : increase standard deviation *  2.2
+ 375 : increase standard deviation *  2.1
+ 376 : increase standard deviation *  2.1
+ 381 : increase standard deviation *  2.2
+ 396 : increase standard deviation *  2.5
+ 425 : increase standard deviation *  1.5
+ 433 : increase standard deviation *  2.4
+ 436 : increase standard deviation *  2.1
+ 469 : increase standard deviation *  2.1
+ 484 : increase standard deviation *  2.1
+ 487 : increase standard deviation *  2.5
+ 491 : increase standard deviation *  2.1
+ 510 : increase standard deviation *  2.1
+ 533 : increase standard deviation *  2.2
+ 534 : increase standard deviation *  2.1
+ 544 : increase standard deviation *  1.9
+ 555 : increase standard deviation *  2.0
+ 556 : increase standard deviation *  2.2
+ 567 : increase standard deviation *  2.5
+ 596 : increase standard deviation *  2.2
+ 597 : increase standard deviation *  2.3
+ 602 : increase standard deviation *  2.2
+ 611 : increase standard deviation *  1.7
+ 621 : increase standard deviation *  2.1
+ 622 : increase standard deviation *  2.2
+ 672 : increase standard deviation *  2.4
+ 673 : increase standard deviation *  2.1
+ 684 : increase standard deviation *  1.7
+ 692 : increase standard deviation *  2.4
+ 695 : increase standard deviation *  2.3
+ 713 : increase standard deviation *  2.1
+ 716 : increase standard deviation *  1.7
+ 727 : increase standard deviation *  2.0
+ 734 : increase standard deviation *  2.3
+ 755 : increase standard deviation *  2.2
+ 760 : increase standard deviation *  2.2
+ 786 : increase standard deviation *  2.3
+ 790 : increase standard deviation *  2.3
+ 791 : increase standard deviation *  2.2
+ 795 : increase standard deviation *  1.9
+ 797 : increase standard deviation *  1.9
+ 816 : increase standard deviation *  1.9
+ 817 : increase standard deviation *  2.1
+ 834 : increase standard deviation *  2.3
+ 841 : increase standard deviation *  2.1
+ 848 : increase standard deviation *  2.1
+ 882 : increase standard deviation *  2.7
+ 884 : increase standard deviation *  2.3
+ 906 : increase standard deviation *  2.1
+ 915 : increase standard deviation *  2.2
+ 917 : increase standard deviation *  2.1
+ 949 : increase standard deviation *  2.0
+1049 : increase standard deviation *  2.1
+1052 : increase standard deviation *  2.2
+1091 : increase standard deviation *  2.7
+1096 : increase standard deviation *  3.0
+1112 : increase standard deviation *  2.1
+1120 : increase standard deviation *  2.2
+1121 : increase standard deviation *  2.2
+1184 : increase standard deviation *  2.0
+1207 : increase standard deviation *  2.1
+1221 : increase standard deviation *  2.2
+1223 : increase standard deviation *  2.1
+1228 : increase standard deviation *  2.2
+1295 : increase standard deviation *  1.1
+1318 : increase standard deviation *  2.0
+1320 : increase standard deviation *  2.0
+1325 : increase standard deviation *  1.9
+1351 : increase standard deviation *  1.9
+1358 : increase standard deviation *  2.1
+1361 : increase standard deviation *  2.0
+1384 : increase standard deviation *  1.1
+1392 : increase standard deviation *  1.6
+1404 : increase standard deviation *  2.7
+1437 : increase standard deviation *  2.1
+1438 : increase standard deviation *  1.9
+1462 : increase standard deviation *  1.9
+1475 : increase standard deviation *  2.2
+1478 : increase standard deviation *  2.0
+1509 : increase standard deviation *  1.7
+1515 : increase standard deviation *  1.7
+1521 : increase standard deviation *  1.1
+1525 : increase standard deviation *  2.2
+1587 : increase standard deviation *  1.9
+1635 : increase standard deviation *  1.8
+1665 : increase standard deviation *  1.9
+1705 : increase standard deviation *  2.0
+1707 : increase standard deviation *  2.2
+1780 : increase standard deviation *  1.2
+1791 : increase standard deviation *  2.0
+ Iteration   1,   0 : Calculating Sensitivities
+ Iteration   1,   1 : Updating
+ Iteration   1,   1 : Calculating Potentials
+ Iteration   1,   2 : Updating
+ Iteration   1,   2 : Calculating Potentials
+ Iteration   1,   3 : Updating
+ Iteration   1,   3 : Calculating Potentials
+ Iteration   1,   4 : Updating
+ Iteration   1,   4 : Calculating Potentials
+ Iteration   1,   5 : Updating
+ Iteration   1,   5 : Calculating Potentials
+ Iteration   1,   6 : Updating
+ Iteration   1,   6 : Calculating Potentials
+ Iteration   1,   7 : Updating
+ Iteration   1,   7 : Calculating Potentials
+ Iteration   1,   8 : Updating
+ Iteration   1,   8 : Calculating Potentials
+ Iteration   1,   9 : Updating
+ Iteration   1,   9 : Calculating Potentials
+ Iteration   1,  10 : Updating
+ Iteration   1,  10 : Calculating Potentials
+ Iteration   1,  10 : Updating
+ Iteration   1,  10 : Calculating Potentials
+   8 : increase standard deviation *  2.1
+   9 : increase standard deviation *  2.0
+  15 : increase standard deviation *  2.1
+  16 : increase standard deviation *  1.9
+  26 : increase standard deviation *  1.7
+  33 : increase standard deviation *  2.3
+  48 : increase standard deviation *  1.8
+  77 : increase standard deviation *  1.6
+  87 : increase standard deviation *  1.9
+  88 : increase standard deviation *  1.9
+  95 : increase standard deviation *  1.8
+ 112 : increase standard deviation *  1.9
+ 115 : increase standard deviation *  1.8
+ 119 : increase standard deviation *  1.9
+ 132 : increase standard deviation *  1.1
+ 141 : increase standard deviation *  1.7
+ 148 : increase standard deviation *  1.7
+ 156 : increase standard deviation *  1.9
+ 174 : increase standard deviation *  1.9
+ 186 : increase standard deviation *  1.7
+ 187 : increase standard deviation *  1.9
+ 193 : increase standard deviation *  2.0
+ 203 : increase standard deviation *  1.7
+ 213 : increase standard deviation *  1.1
+ 215 : increase standard deviation *  1.7
+ 223 : increase standard deviation *  2.2
+ 224 : increase standard deviation *  2.0
+ 232 : increase standard deviation *  2.2
+ 233 : increase standard deviation *  2.0
+ 244 : increase standard deviation *  2.1
+ 262 : increase standard deviation *  1.6
+ 263 : increase standard deviation *  1.8
+ 296 : increase standard deviation *  1.1
+ 302 : increase standard deviation *  2.0
+ 304 : increase standard deviation *  2.0
+ 306 : increase standard deviation *  1.2
+ 308 : increase standard deviation *  2.0
+ 309 : increase standard deviation *  1.9
+ 346 : increase standard deviation *  1.8
+ 347 : increase standard deviation *  1.9
+ 362 : increase standard deviation *  2.0
+ 375 : increase standard deviation *  1.9
+ 376 : increase standard deviation *  1.9
+ 381 : increase standard deviation *  1.9
+ 396 : increase standard deviation *  2.1
+ 420 : increase standard deviation *  1.1
+ 425 : increase standard deviation *  1.7
+ 433 : increase standard deviation *  2.0
+ 436 : increase standard deviation *  1.9
+ 469 : increase standard deviation *  1.9
+ 484 : increase standard deviation *  1.9
+ 487 : increase standard deviation *  2.1
+ 491 : increase standard deviation *  2.0
+ 510 : increase standard deviation *  1.9
+ 518 : increase standard deviation *  1.1
+ 522 : increase standard deviation *  1.1
+ 533 : increase standard deviation *  2.0
+ 534 : increase standard deviation *  1.8
+ 544 : increase standard deviation *  1.7
+ 555 : increase standard deviation *  1.9
+ 556 : increase standard deviation *  1.9
+ 567 : increase standard deviation *  2.0
+ 568 : increase standard deviation *  1.1
+ 596 : increase standard deviation *  2.0
+ 597 : increase standard deviation *  2.0
+ 602 : increase standard deviation *  1.9
+ 608 : increase standard deviation *  1.1
+ 611 : increase standard deviation *  1.7
+ 621 : increase standard deviation *  1.8
+ 622 : increase standard deviation *  2.0
+ 672 : increase standard deviation *  2.0
+ 673 : increase standard deviation *  1.9
+ 684 : increase standard deviation *  1.7
+ 692 : increase standard deviation *  1.9
+ 695 : increase standard deviation *  2.1
+ 705 : increase standard deviation *  1.1
+ 713 : increase standard deviation *  1.9
+ 716 : increase standard deviation *  1.8
+ 727 : increase standard deviation *  1.9
+ 734 : increase standard deviation *  1.9
+ 755 : increase standard deviation *  1.9
+ 760 : increase standard deviation *  1.8
+ 786 : increase standard deviation *  1.9
+ 790 : increase standard deviation *  2.0
+ 791 : increase standard deviation *  1.9
+ 795 : increase standard deviation *  1.7
+ 796 : increase standard deviation *  1.1
+ 797 : increase standard deviation *  1.7
+ 816 : increase standard deviation *  1.8
+ 817 : increase standard deviation *  1.9
+ 834 : increase standard deviation *  1.9
+ 841 : increase standard deviation *  2.0
+ 848 : increase standard deviation *  1.9
+ 882 : increase standard deviation *  2.2
+ 884 : increase standard deviation *  2.1
+ 906 : increase standard deviation *  1.8
+ 915 : increase standard deviation *  1.9
+ 917 : increase standard deviation *  1.9
+ 949 : increase standard deviation *  2.1
+1049 : increase standard deviation *  1.9
+1052 : increase standard deviation *  1.8
+1071 : increase standard deviation *  1.1
+1091 : increase standard deviation *  2.6
+1092 : increase standard deviation *  1.2
+1094 : increase standard deviation *  1.2
+1095 : increase standard deviation *  1.3
+1096 : increase standard deviation *  2.2
+1097 : increase standard deviation *  1.3
+1112 : increase standard deviation *  1.7
+1120 : increase standard deviation *  1.9
+1121 : increase standard deviation *  1.9
+1132 : increase standard deviation *  1.1
+1184 : increase standard deviation *  1.9
+1207 : increase standard deviation *  1.7
+1221 : increase standard deviation *  1.8
+1223 : increase standard deviation *  1.8
+1228 : increase standard deviation *  1.9
+1318 : increase standard deviation *  1.9
+1320 : increase standard deviation *  1.8
+1325 : increase standard deviation *  1.9
+1351 : increase standard deviation *  1.6
+1358 : increase standard deviation *  1.8
+1361 : increase standard deviation *  1.7
+1392 : increase standard deviation *  1.7
+1404 : increase standard deviation *  2.0
+1437 : increase standard deviation *  1.7
+1438 : increase standard deviation *  1.8
+1462 : increase standard deviation *  1.6
+1475 : increase standard deviation *  1.9
+1478 : increase standard deviation *  1.6
+1509 : increase standard deviation *  1.7
+1515 : increase standard deviation *  1.6
+1525 : increase standard deviation *  1.8
+1587 : increase standard deviation *  1.8
+1607 : increase standard deviation *  1.1
+1613 : increase standard deviation *  1.1
+1635 : increase standard deviation *  1.6
+1665 : increase standard deviation *  1.8
+1705 : increase standard deviation *  1.8
+1707 : increase standard deviation *  1.8
+1723 : increase standard deviation *  1.1
+1791 : increase standard deviation *  1.9
+ Iteration   2,   0 : Calculating Sensitivities
+ Iteration   2,   0 : Updating
+ Iteration   2,   0 : Calculating Potentials
+ Iteration   2,   1 : Updating
+ Iteration   2,   1 : Calculating Potentials
+ Iteration   2,   2 : Updating
+ Iteration   2,   2 : Calculating Potentials
+ Iteration   2,   3 : Updating
+ Iteration   2,   3 : Calculating Potentials
+ Iteration   2,   3 : Updating
+ Iteration   2,   3 : Calculating Potentials
+   8 : increase standard deviation *  1.8
+   9 : increase standard deviation *  1.7
+  15 : increase standard deviation *  1.9
+  16 : increase standard deviation *  1.6
+  26 : increase standard deviation *  1.7
+  28 : increase standard deviation *  1.2
+  33 : increase standard deviation *  1.7
+  35 : increase standard deviation *  1.2
+  48 : increase standard deviation *  1.7
+  73 : increase standard deviation *  1.1
+  77 : increase standard deviation *  1.7
+  87 : increase standard deviation *  1.9
+  88 : increase standard deviation *  1.6
+  95 : increase standard deviation *  1.7
+ 112 : increase standard deviation *  1.7
+ 115 : increase standard deviation *  1.8
+ 119 : increase standard deviation *  1.9
+ 121 : increase standard deviation *  1.1
+ 124 : increase standard deviation *  1.2
+ 141 : increase standard deviation *  1.7
+ 147 : increase standard deviation *  1.1
+ 148 : increase standard deviation *  1.6
+ 156 : increase standard deviation *  1.7
+ 174 : increase standard deviation *  1.7
+ 186 : increase standard deviation *  1.6
+ 187 : increase standard deviation *  1.8
+ 193 : increase standard deviation *  1.7
+ 203 : increase standard deviation *  1.5
+ 215 : increase standard deviation *  1.7
+ 217 : increase standard deviation *  1.1
+ 223 : increase standard deviation *  1.8
+ 224 : increase standard deviation *  1.6
+ 232 : increase standard deviation *  1.7
+ 233 : increase standard deviation *  1.7
+ 244 : increase standard deviation *  1.7
+ 262 : increase standard deviation *  1.6
+ 263 : increase standard deviation *  1.7
+ 266 : increase standard deviation *  1.1
+ 302 : increase standard deviation *  1.9
+ 304 : increase standard deviation *  1.9
+ 306 : increase standard deviation *  1.1
+ 308 : increase standard deviation *  1.8
+ 309 : increase standard deviation *  1.8
+ 328 : increase standard deviation *  1.2
+ 331 : increase standard deviation *  1.2
+ 346 : increase standard deviation *  1.7
+ 347 : increase standard deviation *  1.8
+ 349 : increase standard deviation *  1.1
+ 351 : increase standard deviation *  1.1
+ 353 : increase standard deviation *  1.1
+ 356 : increase standard deviation *  1.1
+ 362 : increase standard deviation *  1.7
+ 375 : increase standard deviation *  1.9
+ 376 : increase standard deviation *  1.7
+ 381 : increase standard deviation *  1.7
+ 396 : increase standard deviation *  1.8
+ 413 : increase standard deviation *  1.2
+ 420 : increase standard deviation *  1.2
+ 425 : increase standard deviation *  1.7
+ 433 : increase standard deviation *  1.7
+ 434 : increase standard deviation *  1.2
+ 436 : increase standard deviation *  1.5
+ 460 : increase standard deviation *  1.2
+ 469 : increase standard deviation *  1.5
+ 484 : increase standard deviation *  1.9
+ 487 : increase standard deviation *  1.7
+ 491 : increase standard deviation *  2.0
+ 507 : increase standard deviation *  1.1
+ 510 : increase standard deviation *  1.9
+ 519 : increase standard deviation *  1.2
+ 533 : increase standard deviation *  1.8
+ 534 : increase standard deviation *  1.9
+ 536 : increase standard deviation *  1.1
+ 538 : increase standard deviation *  1.2
+ 544 : increase standard deviation *  1.7
+ 555 : increase standard deviation *  1.9
+ 556 : increase standard deviation *  1.7
+ 567 : increase standard deviation *  1.7
+ 578 : increase standard deviation *  1.1
+ 588 : increase standard deviation *  1.2
+ 593 : increase standard deviation *  1.1
+ 596 : increase standard deviation *  1.8
+ 597 : increase standard deviation *  1.8
+ 602 : increase standard deviation *  1.8
+ 603 : increase standard deviation *  1.1
+ 611 : increase standard deviation *  1.7
+ 616 : increase standard deviation *  1.2
+ 621 : increase standard deviation *  1.8
+ 622 : increase standard deviation *  1.7
+ 623 : increase standard deviation *  1.1
+ 625 : increase standard deviation *  1.2
+ 663 : increase standard deviation *  1.1
+ 672 : increase standard deviation *  1.7
+ 673 : increase standard deviation *  1.8
+ 684 : increase standard deviation *  1.6
+ 686 : increase standard deviation *  1.1
+ 692 : increase standard deviation *  1.6
+ 693 : increase standard deviation *  1.5
+ 695 : increase standard deviation *  1.9
+ 713 : increase standard deviation *  2.0
+ 716 : increase standard deviation *  1.8
+ 725 : increase standard deviation *  1.1
+ 727 : increase standard deviation *  1.7
+ 734 : increase standard deviation *  1.6
+ 755 : increase standard deviation *  1.8
+ 760 : increase standard deviation *  1.7
+ 786 : increase standard deviation *  1.7
+ 790 : increase standard deviation *  1.9
+ 791 : increase standard deviation *  1.6
+ 795 : increase standard deviation *  1.5
+ 797 : increase standard deviation *  1.5
+ 802 : increase standard deviation *  1.1
+ 816 : increase standard deviation *  1.7
+ 817 : increase standard deviation *  1.8
+ 834 : increase standard deviation *  1.9
+ 841 : increase standard deviation *  2.0
+ 848 : increase standard deviation *  1.9
+ 871 : increase standard deviation *  1.2
+ 874 : increase standard deviation *  1.3
+ 882 : increase standard deviation *  1.7
+ 884 : increase standard deviation *  1.8
+ 903 : increase standard deviation *  1.2
+ 906 : increase standard deviation *  1.7
+ 907 : increase standard deviation *  1.2
+ 909 : increase standard deviation *  1.1
+ 915 : increase standard deviation *  1.7
+ 917 : increase standard deviation *  1.6
+ 931 : increase standard deviation *  1.2
+ 933 : increase standard deviation *  1.4
+ 949 : increase standard deviation *  2.4
+ 950 : increase standard deviation *  1.4
+ 951 : increase standard deviation *  1.1
+ 956 : increase standard deviation *  1.2
+ 972 : increase standard deviation *  1.1
+ 973 : increase standard deviation *  1.1
+ 979 : increase standard deviation *  1.1
+ 981 : increase standard deviation *  1.4
+ 996 : increase standard deviation *  1.1
+1015 : increase standard deviation *  1.2
+1049 : increase standard deviation *  2.3
+1052 : increase standard deviation *  1.6
+1058 : increase standard deviation *  1.1
+1065 : increase standard deviation *  1.2
+1069 : increase standard deviation *  1.2
+1071 : increase standard deviation *  1.1
+1072 : increase standard deviation *  1.2
+1073 : increase standard deviation *  1.1
+1074 : increase standard deviation *  1.1
+1080 : increase standard deviation *  1.2
+1083 : increase standard deviation *  1.2
+1085 : increase standard deviation *  1.2
+1091 : increase standard deviation *  2.0
+1092 : increase standard deviation *  1.1
+1095 : increase standard deviation *  1.2
+1096 : increase standard deviation *  2.3
+1097 : increase standard deviation *  1.1
+1108 : increase standard deviation *  1.2
+1112 : increase standard deviation *  1.6
+1114 : increase standard deviation *  1.2
+1116 : increase standard deviation *  1.2
+1120 : increase standard deviation *  1.7
+1121 : increase standard deviation *  1.8
+1123 : increase standard deviation *  1.2
+1127 : increase standard deviation *  1.1
+1129 : increase standard deviation *  1.3
+1157 : increase standard deviation *  1.1
+1158 : increase standard deviation *  1.1
+1164 : increase standard deviation *  1.1
+1168 : increase standard deviation *  1.2
+1175 : increase standard deviation *  1.3
+1184 : increase standard deviation *  2.3
+1185 : increase standard deviation *  1.5
+1186 : increase standard deviation *  1.2
+1187 : increase standard deviation *  1.2
+1204 : increase standard deviation *  1.2
+1206 : increase standard deviation *  1.1
+1207 : increase standard deviation *  1.6
+1215 : increase standard deviation *  1.2
+1221 : increase standard deviation *  1.8
+1223 : increase standard deviation *  1.7
+1225 : increase standard deviation *  1.7
+1226 : increase standard deviation *  1.3
+1228 : increase standard deviation *  2.3
+1253 : increase standard deviation *  1.2
+1256 : increase standard deviation *  1.1
+1259 : increase standard deviation *  1.1
+1294 : increase standard deviation *  1.1
+1299 : increase standard deviation *  1.1
+1306 : increase standard deviation *  1.2
+1318 : increase standard deviation *  1.6
+1320 : increase standard deviation *  1.7
+1325 : increase standard deviation *  1.6
+1351 : increase standard deviation *  1.2
+1353 : increase standard deviation *  1.2
+1358 : increase standard deviation *  1.7
+1359 : increase standard deviation *  1.1
+1360 : increase standard deviation *  1.2
+1361 : increase standard deviation *  1.6
+1362 : increase standard deviation *  1.2
+1370 : increase standard deviation *  1.1
+1380 : increase standard deviation *  1.1
+1392 : increase standard deviation *  1.7
+1404 : increase standard deviation *  1.6
+1406 : increase standard deviation *  1.1
+1410 : increase standard deviation *  1.2
+1418 : increase standard deviation *  1.1
+1421 : increase standard deviation *  1.1
+1437 : increase standard deviation *  1.7
+1438 : increase standard deviation *  1.5
+1440 : increase standard deviation *  1.1
+1454 : increase standard deviation *  1.3
+1462 : increase standard deviation *  1.5
+1463 : increase standard deviation *  1.1
+1465 : increase standard deviation *  1.1
+1475 : increase standard deviation *  1.7
+1478 : increase standard deviation *  1.5
+1483 : increase standard deviation *  1.2
+1488 : increase standard deviation *  1.1
+1509 : increase standard deviation *  1.7
+1512 : increase standard deviation *  1.1
+1515 : increase standard deviation *  1.5
+1525 : increase standard deviation *  1.6
+1527 : increase standard deviation *  1.2
+1528 : increase standard deviation *  1.2
+1533 : increase standard deviation *  1.2
+1535 : increase standard deviation *  1.2
+1574 : increase standard deviation *  1.1
+1581 : increase standard deviation *  1.1
+1587 : increase standard deviation *  1.6
+1606 : increase standard deviation *  1.2
+1634 : increase standard deviation *  1.5
+1635 : increase standard deviation *  1.6
+1638 : increase standard deviation *  1.1
+1650 : increase standard deviation *  1.2
+1652 : increase standard deviation *  1.2
+1653 : increase standard deviation *  1.1
+1665 : increase standard deviation *  1.7
+1679 : increase standard deviation *  1.6
+1694 : increase standard deviation *  1.1
+1697 : increase standard deviation *  1.1
+1705 : increase standard deviation *  1.8
+1707 : increase standard deviation *  1.6
+1708 : increase standard deviation *  1.2
+1720 : increase standard deviation *  1.2
+1747 : increase standard deviation *  1.1
+1748 : increase standard deviation *  1.2
+1791 : increase standard deviation *  1.8
+1792 : increase standard deviation *  1.1
+ Iteration   3,   0 : Calculating Sensitivities
+ Iteration   3,   0 : Updating
+ Iteration   3,   0 : Calculating Potentials
+ Iteration   3,   1 : Updating
+ Iteration   3,   1 : Calculating Potentials
+ Iteration   3,   2 : Updating
+ Iteration   3,   2 : Calculating Potentials
+ Iteration   3,   3 : Updating
+ Iteration   3,   3 : Calculating Potentials
+ Iteration   3,   4 : Updating
+ Iteration   3,   4 : Calculating Potentials
+ Iteration   3,   5 : Updating
+ Iteration   3,   5 : Calculating Potentials
+ Iteration   3,   5 : Updating
+ Iteration   3,   5 : Calculating Potentials
+   2 : increase standard deviation *  1.1
+   8 : increase standard deviation *  1.5
+   9 : increase standard deviation *  1.7
+  15 : increase standard deviation *  1.6
+  16 : increase standard deviation *  1.7
+  24 : increase standard deviation *  1.4
+  25 : increase standard deviation *  1.2
+  26 : increase standard deviation *  1.9
+  28 : increase standard deviation *  1.2
+  33 : increase standard deviation *  1.5
+  37 : increase standard deviation *  1.2
+  48 : increase standard deviation *  1.8
+  63 : increase standard deviation *  1.4
+  66 : increase standard deviation *  1.1
+  68 : increase standard deviation *  1.1
+  77 : increase standard deviation *  1.8
+  87 : increase standard deviation *  1.9
+  88 : increase standard deviation *  1.5
+  95 : increase standard deviation *  1.8
+  99 : increase standard deviation *  1.2
+ 100 : increase standard deviation *  1.1
+ 106 : increase standard deviation *  1.1
+ 112 : increase standard deviation *  1.9
+ 113 : increase standard deviation *  1.2
+ 115 : increase standard deviation *  1.8
+ 118 : increase standard deviation *  1.3
+ 119 : increase standard deviation *  1.9
+ 121 : increase standard deviation *  1.2
+ 123 : increase standard deviation *  1.2
+ 126 : increase standard deviation *  1.2
+ 141 : increase standard deviation *  1.9
+ 145 : increase standard deviation *  1.1
+ 148 : increase standard deviation *  1.8
+ 152 : increase standard deviation *  1.3
+ 153 : increase standard deviation *  1.4
+ 156 : increase standard deviation *  1.6
+ 163 : increase standard deviation *  1.2
+ 169 : increase standard deviation *  1.5
+ 174 : increase standard deviation *  1.6
+ 176 : increase standard deviation *  1.3
+ 179 : increase standard deviation *  1.1
+ 186 : increase standard deviation *  1.9
+ 187 : increase standard deviation *  1.9
+ 188 : increase standard deviation *  1.3
+ 189 : increase standard deviation *  1.4
+ 190 : increase standard deviation *  1.2
+ 193 : increase standard deviation *  1.8
+ 196 : increase standard deviation *  1.3
+ 198 : increase standard deviation *  1.1
+ 203 : increase standard deviation *  1.7
+ 208 : increase standard deviation *  1.2
+ 210 : increase standard deviation *  1.1
+ 212 : increase standard deviation *  1.1
+ 215 : increase standard deviation *  2.0
+ 219 : increase standard deviation *  1.2
+ 223 : increase standard deviation *  1.6
+ 224 : increase standard deviation *  1.7
+ 232 : increase standard deviation *  1.6
+ 233 : increase standard deviation *  1.8
+ 241 : increase standard deviation *  1.3
+ 244 : increase standard deviation *  1.6
+ 252 : increase standard deviation *  1.2
+ 262 : increase standard deviation *  1.9
+ 263 : increase standard deviation *  1.9
+ 264 : increase standard deviation *  1.3
+ 301 : increase standard deviation *  1.3
+ 302 : increase standard deviation *  1.7
+ 303 : increase standard deviation *  1.2
+ 304 : increase standard deviation *  1.7
+ 308 : increase standard deviation *  1.8
+ 309 : increase standard deviation *  1.7
+ 315 : increase standard deviation *  1.1
+ 318 : increase standard deviation *  1.1
+ 322 : increase standard deviation *  1.3
+ 328 : increase standard deviation *  1.2
+ 329 : increase standard deviation *  1.1
+ 333 : increase standard deviation *  1.2
+ 346 : increase standard deviation *  1.8
+ 347 : increase standard deviation *  1.6
+ 362 : increase standard deviation *  1.7
+ 365 : increase standard deviation *  1.7
+ 367 : increase standard deviation *  1.2
+ 375 : increase standard deviation *  1.9
+ 376 : increase standard deviation *  1.7
+ 381 : increase standard deviation *  1.6
+ 390 : increase standard deviation *  1.3
+ 391 : increase standard deviation *  1.2
+ 395 : increase standard deviation *  1.2
+ 396 : increase standard deviation *  1.8
+ 398 : increase standard deviation *  1.4
+ 400 : increase standard deviation *  1.3
+ 402 : increase standard deviation *  1.2
+ 412 : increase standard deviation *  1.2
+ 414 : increase standard deviation *  1.2
+ 415 : increase standard deviation *  1.2
+ 420 : increase standard deviation *  1.1
+ 421 : increase standard deviation *  1.1
+ 424 : increase standard deviation *  1.2
+ 425 : increase standard deviation *  1.9
+ 433 : increase standard deviation *  1.7
+ 436 : increase standard deviation *  1.7
+ 442 : increase standard deviation *  1.4
+ 457 : increase standard deviation *  1.4
+ 465 : increase standard deviation *  1.2
+ 466 : increase standard deviation *  1.1
+ 469 : increase standard deviation *  1.5
+ 471 : increase standard deviation *  1.3
+ 477 : increase standard deviation *  1.1
+ 481 : increase standard deviation *  1.4
+ 484 : increase standard deviation *  2.1
+ 487 : increase standard deviation *  1.6
+ 489 : increase standard deviation *  1.5
+ 491 : increase standard deviation *  1.7
+ 505 : increase standard deviation *  1.1
+ 510 : increase standard deviation *  1.7
+ 516 : increase standard deviation *  1.1
+ 525 : increase standard deviation *  1.1
+ 533 : increase standard deviation *  1.9
+ 534 : increase standard deviation *  1.6
+ 544 : increase standard deviation *  1.9
+ 555 : increase standard deviation *  1.9
+ 556 : increase standard deviation *  1.6
+ 561 : increase standard deviation *  1.1
+ 562 : increase standard deviation *  1.2
+ 565 : increase standard deviation *  1.1
+ 567 : increase standard deviation *  1.7
+ 575 : increase standard deviation *  1.2
+ 578 : increase standard deviation *  1.2
+ 581 : increase standard deviation *  1.2
+ 591 : increase standard deviation *  1.3
+ 596 : increase standard deviation *  1.6
+ 597 : increase standard deviation *  1.8
+ 599 : increase standard deviation *  1.3
+ 602 : increase standard deviation *  1.9
+ 603 : increase standard deviation *  1.2
+ 611 : increase standard deviation *  1.9
+ 621 : increase standard deviation *  1.8
+ 622 : increase standard deviation *  1.8
+ 625 : increase standard deviation *  1.4
+ 649 : increase standard deviation *  1.4
+ 663 : increase standard deviation *  1.2
+ 672 : increase standard deviation *  1.6
+ 673 : increase standard deviation *  1.7
+ 684 : increase standard deviation *  1.9
+ 686 : increase standard deviation *  1.1
+ 690 : increase standard deviation *  1.3
+ 692 : increase standard deviation *  1.6
+ 693 : increase standard deviation *  1.3
+ 695 : increase standard deviation *  1.8
+ 713 : increase standard deviation *  2.1
+ 716 : increase standard deviation *  2.1
+ 718 : increase standard deviation *  1.2
+ 727 : increase standard deviation *  1.7
+ 734 : increase standard deviation *  1.5
+ 745 : increase standard deviation *  1.1
+ 748 : increase standard deviation *  1.1
+ 750 : increase standard deviation *  1.3
+ 752 : increase standard deviation *  1.2
+ 753 : increase standard deviation *  1.1
+ 755 : increase standard deviation *  1.9
+ 757 : increase standard deviation *  1.3
+ 760 : increase standard deviation *  1.7
+ 764 : increase standard deviation *  1.1
+ 767 : increase standard deviation *  1.1
+ 770 : increase standard deviation *  1.2
+ 771 : increase standard deviation *  1.1
+ 773 : increase standard deviation *  1.2
+ 786 : increase standard deviation *  1.8
+ 788 : increase standard deviation *  1.4
+ 790 : increase standard deviation *  1.7
+ 791 : increase standard deviation *  1.8
+ 795 : increase standard deviation *  1.8
+ 796 : increase standard deviation *  1.1
+ 797 : increase standard deviation *  1.7
+ 810 : increase standard deviation *  1.2
+ 816 : increase standard deviation *  1.7
+ 817 : increase standard deviation *  1.8
+ 830 : increase standard deviation *  1.2
+ 832 : increase standard deviation *  1.1
+ 834 : increase standard deviation *  1.9
+ 836 : increase standard deviation *  1.1
+ 841 : increase standard deviation *  2.1
+ 848 : increase standard deviation *  2.0
+ 872 : increase standard deviation *  1.3
+ 874 : increase standard deviation *  1.3
+ 877 : increase standard deviation *  1.3
+ 882 : increase standard deviation *  1.4
+ 884 : increase standard deviation *  1.9
+ 887 : increase standard deviation *  1.1
+ 889 : increase standard deviation *  1.1
+ 906 : increase standard deviation *  1.8
+ 910 : increase standard deviation *  1.5
+ 915 : increase standard deviation *  1.8
+ 917 : increase standard deviation *  1.6
+ 920 : increase standard deviation *  1.3
+ 927 : increase standard deviation *  1.2
+ 929 : increase standard deviation *  1.3
+ 938 : increase standard deviation *  1.1
+ 947 : increase standard deviation *  1.2
+ 949 : increase standard deviation *  2.5
+ 951 : increase standard deviation *  1.3
+ 956 : increase standard deviation *  1.1
+ 970 : increase standard deviation *  1.3
+ 972 : increase standard deviation *  1.2
+ 973 : increase standard deviation *  1.2
+ 974 : increase standard deviation *  1.1
+ 976 : increase standard deviation *  1.3
+ 979 : increase standard deviation *  1.3
+ 993 : increase standard deviation *  1.1
+ 996 : increase standard deviation *  1.1
+1011 : increase standard deviation *  1.2
+1015 : increase standard deviation *  1.1
+1021 : increase standard deviation *  1.1
+1022 : increase standard deviation *  1.2
+1026 : increase standard deviation *  1.4
+1049 : increase standard deviation *  2.0
+1052 : increase standard deviation *  1.8
+1053 : increase standard deviation *  1.2
+1062 : increase standard deviation *  1.3
+1071 : increase standard deviation *  1.1
+1075 : increase standard deviation *  1.3
+1077 : increase standard deviation *  1.2
+1080 : increase standard deviation *  1.2
+1081 : increase standard deviation *  1.2
+1083 : increase standard deviation *  1.3
+1085 : increase standard deviation *  1.3
+1086 : increase standard deviation *  1.3
+1091 : increase standard deviation *  1.4
+1092 : increase standard deviation *  1.2
+1096 : increase standard deviation *  3.1
+1099 : increase standard deviation *  1.3
+1112 : increase standard deviation *  1.7
+1114 : increase standard deviation *  1.1
+1115 : increase standard deviation *  1.2
+1116 : increase standard deviation *  1.2
+1119 : increase standard deviation *  1.2
+1120 : increase standard deviation *  1.8
+1121 : increase standard deviation *  1.7
+1144 : increase standard deviation *  1.1
+1154 : increase standard deviation *  1.1
+1158 : increase standard deviation *  1.1
+1161 : increase standard deviation *  1.4
+1162 : increase standard deviation *  1.3
+1165 : increase standard deviation *  1.2
+1166 : increase standard deviation *  1.3
+1168 : increase standard deviation *  1.2
+1171 : increase standard deviation *  1.1
+1175 : increase standard deviation *  1.5
+1177 : increase standard deviation *  1.1
+1178 : increase standard deviation *  1.1
+1182 : increase standard deviation *  1.2
+1184 : increase standard deviation *  2.0
+1186 : increase standard deviation *  1.4
+1187 : increase standard deviation *  1.1
+1207 : increase standard deviation *  1.9
+1210 : increase standard deviation *  1.2
+1213 : increase standard deviation *  1.3
+1215 : increase standard deviation *  1.2
+1219 : increase standard deviation *  1.1
+1221 : increase standard deviation *  1.7
+1223 : increase standard deviation *  1.9
+1225 : increase standard deviation *  1.1
+1228 : increase standard deviation *  1.8
+1232 : increase standard deviation *  1.2
+1261 : increase standard deviation *  1.3
+1263 : increase standard deviation *  1.2
+1264 : increase standard deviation *  1.2
+1268 : increase standard deviation *  1.1
+1285 : increase standard deviation *  1.2
+1287 : increase standard deviation *  1.2
+1294 : increase standard deviation *  1.2
+1318 : increase standard deviation *  1.7
+1320 : increase standard deviation *  1.8
+1324 : increase standard deviation *  1.6
+1325 : increase standard deviation *  1.8
+1327 : increase standard deviation *  1.2
+1329 : increase standard deviation *  1.3
+1339 : increase standard deviation *  1.3
+1344 : increase standard deviation *  1.2
+1354 : increase standard deviation *  1.2
+1358 : increase standard deviation *  1.8
+1361 : increase standard deviation *  1.9
+1362 : increase standard deviation *  1.5
+1365 : increase standard deviation *  1.1
+1377 : increase standard deviation *  1.1
+1387 : increase standard deviation *  1.1
+1392 : increase standard deviation *  1.9
+1404 : increase standard deviation *  1.7
+1410 : increase standard deviation *  1.5
+1423 : increase standard deviation *  1.3
+1433 : increase standard deviation *  1.2
+1437 : increase standard deviation *  1.9
+1438 : increase standard deviation *  1.7
+1440 : increase standard deviation *  1.5
+1441 : increase standard deviation *  1.2
+1455 : increase standard deviation *  1.2
+1462 : increase standard deviation *  1.8
+1475 : increase standard deviation *  1.8
+1478 : increase standard deviation *  1.8
+1481 : increase standard deviation *  1.3
+1483 : increase standard deviation *  1.5
+1495 : increase standard deviation *  1.1
+1497 : increase standard deviation *  1.1
+1506 : increase standard deviation *  1.1
+1509 : increase standard deviation *  1.9
+1512 : increase standard deviation *  1.3
+1513 : increase standard deviation *  1.2
+1515 : increase standard deviation *  1.9
+1525 : increase standard deviation *  1.8
+1528 : increase standard deviation *  1.2
+1550 : increase standard deviation *  1.3
+1552 : increase standard deviation *  1.2
+1585 : increase standard deviation *  1.2
+1587 : increase standard deviation *  1.8
+1595 : increase standard deviation *  1.1
+1606 : increase standard deviation *  1.1
+1611 : increase standard deviation *  1.2
+1614 : increase standard deviation *  1.5
+1616 : increase standard deviation *  1.2
+1624 : increase standard deviation *  1.4
+1633 : increase standard deviation *  1.2
+1634 : increase standard deviation *  1.7
+1635 : increase standard deviation *  1.9
+1642 : increase standard deviation *  1.3
+1665 : increase standard deviation *  1.8
+1667 : increase standard deviation *  1.4
+1675 : increase standard deviation *  1.3
+1679 : increase standard deviation *  1.9
+1705 : increase standard deviation *  1.9
+1707 : increase standard deviation *  1.8
+1710 : increase standard deviation *  1.4
+1714 : increase standard deviation *  1.2
+1718 : increase standard deviation *  1.2
+1722 : increase standard deviation *  1.2
+1725 : increase standard deviation *  1.2
+1783 : increase standard deviation *  1.1
+1788 : increase standard deviation *  1.1
+1791 : increase standard deviation *  1.9
+1792 : increase standard deviation *  1.5
+1798 : increase standard deviation *  1.1
+1096 : correct and change polarity
+1096 : excluded
+ Iteration   4,   0 : Calculating Sensitivities
+ Iteration   4,   0 : Updating
+ Iteration   4,   0 : Calculating Potentials
+ Iteration   4,   1 : Updating
+ Iteration   4,   1 : Calculating Potentials
+ Iteration   4,   2 : Updating
+ Iteration   4,   2 : Calculating Potentials
+ Iteration   4,   3 : Updating
+ Iteration   4,   3 : Calculating Potentials
+ Iteration   4,   4 : Updating
+ Iteration   4,   4 : Calculating Potentials
+ Iteration   4,   5 : Updating
+ Iteration   4,   5 : Calculating Potentials
+ Iteration   4,   6 : Updating
+ Iteration   4,   6 : Calculating Potentials
+ Iteration   4,   6 : Updating
+ Iteration   4,   6 : Calculating Potentials
+   5 : increase standard deviation *  1.2
+   8 : increase standard deviation *  1.6
+   9 : increase standard deviation *  1.6
+  12 : increase standard deviation *  1.4
+  15 : increase standard deviation *  1.5
+  16 : increase standard deviation *  1.6
+  24 : increase standard deviation *  1.4
+  25 : increase standard deviation *  1.1
+  26 : increase standard deviation *  1.7
+  31 : increase standard deviation *  1.3
+  33 : increase standard deviation *  1.6
+  37 : increase standard deviation *  1.5
+  42 : increase standard deviation *  1.1
+  48 : increase standard deviation *  1.7
+  63 : increase standard deviation *  1.3
+  66 : increase standard deviation *  1.2
+  73 : increase standard deviation *  1.1
+  77 : increase standard deviation *  1.7
+  87 : increase standard deviation *  1.7
+  88 : increase standard deviation *  1.7
+  95 : increase standard deviation *  1.6
+ 112 : increase standard deviation *  1.7
+ 115 : increase standard deviation *  1.8
+ 118 : increase standard deviation *  1.3
+ 119 : increase standard deviation *  1.7
+ 124 : increase standard deviation *  1.4
+ 141 : increase standard deviation *  1.7
+ 143 : increase standard deviation *  1.2
+ 145 : increase standard deviation *  1.3
+ 148 : increase standard deviation *  1.7
+ 152 : increase standard deviation *  1.2
+ 153 : increase standard deviation *  1.6
+ 155 : increase standard deviation *  1.2
+ 156 : increase standard deviation *  1.7
+ 163 : increase standard deviation *  1.2
+ 169 : increase standard deviation *  1.5
+ 174 : increase standard deviation *  1.7
+ 176 : increase standard deviation *  1.3
+ 177 : increase standard deviation *  1.2
+ 186 : increase standard deviation *  1.7
+ 187 : increase standard deviation *  1.7
+ 188 : increase standard deviation *  1.1
+ 189 : increase standard deviation *  1.3
+ 193 : increase standard deviation *  1.7
+ 203 : increase standard deviation *  1.6
+ 205 : increase standard deviation *  1.2
+ 208 : increase standard deviation *  1.1
+ 213 : increase standard deviation *  1.1
+ 215 : increase standard deviation *  1.8
+ 223 : increase standard deviation *  1.5
+ 224 : increase standard deviation *  1.6
+ 231 : increase standard deviation *  1.3
+ 232 : increase standard deviation *  1.5
+ 233 : increase standard deviation *  1.7
+ 241 : increase standard deviation *  1.3
+ 244 : increase standard deviation *  1.6
+ 245 : increase standard deviation *  1.5
+ 252 : increase standard deviation *  1.3
+ 262 : increase standard deviation *  1.7
+ 263 : increase standard deviation *  1.7
+ 264 : increase standard deviation *  1.2
+ 290 : increase standard deviation *  1.2
+ 291 : increase standard deviation *  1.4
+ 299 : increase standard deviation *  1.1
+ 302 : increase standard deviation *  1.7
+ 303 : increase standard deviation *  1.3
+ 304 : increase standard deviation *  1.6
+ 306 : increase standard deviation *  1.4
+ 308 : increase standard deviation *  1.7
+ 309 : increase standard deviation *  1.6
+ 346 : increase standard deviation *  1.8
+ 347 : increase standard deviation *  1.5
+ 348 : increase standard deviation *  1.2
+ 356 : increase standard deviation *  1.1
+ 362 : increase standard deviation *  1.6
+ 365 : increase standard deviation *  1.6
+ 367 : increase standard deviation *  1.3
+ 368 : increase standard deviation *  1.2
+ 372 : increase standard deviation *  1.3
+ 374 : increase standard deviation *  1.2
+ 375 : increase standard deviation *  1.7
+ 376 : increase standard deviation *  1.7
+ 379 : increase standard deviation *  1.3
+ 381 : increase standard deviation *  1.8
+ 390 : increase standard deviation *  1.4
+ 394 : increase standard deviation *  1.2
+ 396 : increase standard deviation *  1.7
+ 398 : increase standard deviation *  1.4
+ 403 : increase standard deviation *  1.1
+ 421 : increase standard deviation *  1.1
+ 425 : increase standard deviation *  1.7
+ 430 : increase standard deviation *  1.1
+ 433 : increase standard deviation *  1.7
+ 436 : increase standard deviation *  1.7
+ 438 : increase standard deviation *  1.2
+ 442 : increase standard deviation *  1.3
+ 457 : increase standard deviation *  1.4
+ 466 : increase standard deviation *  1.4
+ 469 : increase standard deviation *  1.6
+ 471 : increase standard deviation *  1.2
+ 481 : increase standard deviation *  1.1
+ 484 : increase standard deviation *  1.8
+ 487 : increase standard deviation *  1.6
+ 489 : increase standard deviation *  1.5
+ 491 : increase standard deviation *  1.6
+ 510 : increase standard deviation *  1.7
+ 516 : increase standard deviation *  1.4
+ 533 : increase standard deviation *  1.8
+ 534 : increase standard deviation *  1.4
+ 544 : increase standard deviation *  1.7
+ 553 : increase standard deviation *  1.3
+ 555 : increase standard deviation *  1.7
+ 556 : increase standard deviation *  1.7
+ 562 : increase standard deviation *  1.2
+ 567 : increase standard deviation *  1.7
+ 568 : increase standard deviation *  1.2
+ 583 : increase standard deviation *  1.2
+ 588 : increase standard deviation *  1.1
+ 593 : increase standard deviation *  1.2
+ 596 : increase standard deviation *  1.5
+ 597 : increase standard deviation *  1.6
+ 599 : increase standard deviation *  1.3
+ 602 : increase standard deviation *  1.8
+ 608 : increase standard deviation *  1.3
+ 611 : increase standard deviation *  1.7
+ 616 : increase standard deviation *  1.2
+ 618 : increase standard deviation *  1.1
+ 621 : increase standard deviation *  1.7
+ 622 : increase standard deviation *  1.7
+ 624 : increase standard deviation *  1.2
+ 625 : increase standard deviation *  1.5
+ 638 : increase standard deviation *  1.3
+ 640 : increase standard deviation *  1.1
+ 649 : increase standard deviation *  1.5
+ 672 : increase standard deviation *  1.5
+ 673 : increase standard deviation *  1.6
+ 679 : increase standard deviation *  1.3
+ 684 : increase standard deviation *  1.7
+ 692 : increase standard deviation *  1.6
+ 693 : increase standard deviation *  1.4
+ 695 : increase standard deviation *  1.8
+ 704 : increase standard deviation *  1.2
+ 713 : increase standard deviation *  1.8
+ 716 : increase standard deviation *  1.8
+ 718 : increase standard deviation *  1.2
+ 727 : increase standard deviation *  1.7
+ 734 : increase standard deviation *  1.6
+ 747 : increase standard deviation *  1.3
+ 751 : increase standard deviation *  1.2
+ 755 : increase standard deviation *  1.8
+ 760 : increase standard deviation *  1.7
+ 761 : increase standard deviation *  1.2
+ 786 : increase standard deviation *  1.7
+ 788 : increase standard deviation *  1.4
+ 790 : increase standard deviation *  1.6
+ 791 : increase standard deviation *  1.8
+ 795 : increase standard deviation *  1.7
+ 796 : increase standard deviation *  1.3
+ 797 : increase standard deviation *  1.6
+ 799 : increase standard deviation *  1.2
+ 804 : increase standard deviation *  1.1
+ 806 : increase standard deviation *  1.2
+ 810 : increase standard deviation *  1.2
+ 816 : increase standard deviation *  1.7
+ 817 : increase standard deviation *  1.7
+ 830 : increase standard deviation *  1.2
+ 834 : increase standard deviation *  1.8
+ 841 : increase standard deviation *  1.8
+ 848 : increase standard deviation *  1.7
+ 872 : increase standard deviation *  1.1
+ 877 : increase standard deviation *  1.1
+ 882 : increase standard deviation *  1.3
+ 884 : increase standard deviation *  1.8
+ 887 : increase standard deviation *  1.2
+ 889 : increase standard deviation *  1.2
+ 892 : increase standard deviation *  1.2
+ 906 : increase standard deviation *  1.7
+ 910 : increase standard deviation *  1.3
+ 911 : increase standard deviation *  1.1
+ 915 : increase standard deviation *  1.7
+ 917 : increase standard deviation *  1.6
+ 920 : increase standard deviation *  1.5
+ 929 : increase standard deviation *  1.1
+ 939 : increase standard deviation *  1.1
+ 949 : increase standard deviation *  1.3
+ 951 : increase standard deviation *  1.3
+ 952 : increase standard deviation *  1.1
+ 966 : increase standard deviation *  1.1
+ 970 : increase standard deviation *  1.2
+ 974 : increase standard deviation *  1.1
+ 979 : increase standard deviation *  1.3
+ 989 : increase standard deviation *  1.2
+ 992 : increase standard deviation *  1.3
+ 993 : increase standard deviation *  1.1
+ 995 : increase standard deviation *  1.3
+ 996 : increase standard deviation *  1.1
+1003 : increase standard deviation *  1.2
+1011 : increase standard deviation *  1.2
+1015 : increase standard deviation *  1.1
+1026 : increase standard deviation *  1.3
+1027 : increase standard deviation *  1.1
+1028 : increase standard deviation *  1.1
+1034 : increase standard deviation *  1.1
+1049 : increase standard deviation *  1.4
+1052 : increase standard deviation *  1.7
+1062 : increase standard deviation *  1.5
+1075 : increase standard deviation *  1.1
+1081 : increase standard deviation *  1.2
+1087 : increase standard deviation *  1.2
+1091 : increase standard deviation *  1.2
+1092 : increase standard deviation *  1.1
+1093 : increase standard deviation *  1.2
+1099 : increase standard deviation *  1.2
+1100 : increase standard deviation *  1.1
+1112 : increase standard deviation *  1.7
+1120 : increase standard deviation *  1.8
+1121 : increase standard deviation *  1.6
+1123 : increase standard deviation *  1.4
+1127 : increase standard deviation *  1.1
+1134 : increase standard deviation *  1.2
+1136 : increase standard deviation *  1.2
+1158 : increase standard deviation *  1.1
+1162 : increase standard deviation *  1.5
+1163 : increase standard deviation *  1.1
+1173 : increase standard deviation *  1.2
+1174 : increase standard deviation *  1.2
+1175 : increase standard deviation *  1.6
+1184 : increase standard deviation *  1.5
+1186 : increase standard deviation *  1.5
+1187 : increase standard deviation *  1.1
+1207 : increase standard deviation *  1.7
+1210 : increase standard deviation *  1.1
+1213 : increase standard deviation *  1.2
+1214 : increase standard deviation *  1.1
+1221 : increase standard deviation *  1.6
+1222 : increase standard deviation *  1.1
+1223 : increase standard deviation *  1.8
+1224 : increase standard deviation *  1.2
+1228 : increase standard deviation *  1.4
+1232 : increase standard deviation *  1.3
+1237 : increase standard deviation *  1.1
+1262 : increase standard deviation *  1.1
+1263 : increase standard deviation *  1.1
+1264 : increase standard deviation *  1.1
+1268 : increase standard deviation *  1.2
+1270 : increase standard deviation *  1.1
+1272 : increase standard deviation *  1.2
+1274 : increase standard deviation *  1.1
+1281 : increase standard deviation *  1.3
+1284 : increase standard deviation *  1.1
+1288 : increase standard deviation *  1.1
+1294 : increase standard deviation *  1.2
+1306 : increase standard deviation *  1.1
+1317 : increase standard deviation *  1.2
+1318 : increase standard deviation *  1.7
+1320 : increase standard deviation *  1.7
+1324 : increase standard deviation *  1.4
+1325 : increase standard deviation *  1.7
+1327 : increase standard deviation *  1.2
+1329 : increase standard deviation *  1.3
+1331 : increase standard deviation *  1.1
+1332 : increase standard deviation *  1.3
+1339 : increase standard deviation *  1.4
+1341 : increase standard deviation *  1.2
+1344 : increase standard deviation *  1.1
+1358 : increase standard deviation *  1.7
+1360 : increase standard deviation *  1.1
+1361 : increase standard deviation *  1.8
+1362 : increase standard deviation *  1.4
+1365 : increase standard deviation *  1.2
+1372 : increase standard deviation *  1.2
+1377 : increase standard deviation *  1.1
+1378 : increase standard deviation *  1.1
+1379 : increase standard deviation *  1.1
+1380 : increase standard deviation *  1.2
+1385 : increase standard deviation *  1.1
+1389 : increase standard deviation *  1.2
+1392 : increase standard deviation *  1.7
+1399 : increase standard deviation *  1.2
+1404 : increase standard deviation *  1.7
+1406 : increase standard deviation *  1.1
+1410 : increase standard deviation *  1.4
+1423 : increase standard deviation *  1.1
+1435 : increase standard deviation *  1.3
+1437 : increase standard deviation *  1.7
+1438 : increase standard deviation *  1.6
+1440 : increase standard deviation *  1.5
+1441 : increase standard deviation *  1.2
+1442 : increase standard deviation *  1.3
+1445 : increase standard deviation *  1.3
+1447 : increase standard deviation *  1.2
+1451 : increase standard deviation *  1.3
+1459 : increase standard deviation *  1.2
+1462 : increase standard deviation *  1.7
+1463 : increase standard deviation *  1.1
+1475 : increase standard deviation *  1.7
+1478 : increase standard deviation *  1.7
+1481 : increase standard deviation *  1.3
+1483 : increase standard deviation *  1.4
+1494 : increase standard deviation *  1.1
+1495 : increase standard deviation *  1.2
+1497 : increase standard deviation *  1.2
+1501 : increase standard deviation *  1.3
+1502 : increase standard deviation *  1.2
+1505 : increase standard deviation *  1.3
+1507 : increase standard deviation *  1.3
+1509 : increase standard deviation *  1.7
+1512 : increase standard deviation *  1.2
+1515 : increase standard deviation *  1.7
+1520 : increase standard deviation *  1.1
+1521 : increase standard deviation *  1.3
+1525 : increase standard deviation *  1.7
+1527 : increase standard deviation *  1.1
+1528 : increase standard deviation *  1.1
+1533 : increase standard deviation *  1.1
+1535 : increase standard deviation *  1.1
+1540 : increase standard deviation *  1.1
+1550 : increase standard deviation *  1.2
+1552 : increase standard deviation *  1.2
+1556 : increase standard deviation *  1.2
+1559 : increase standard deviation *  1.2
+1560 : increase standard deviation *  1.3
+1565 : increase standard deviation *  1.3
+1566 : increase standard deviation *  1.1
+1581 : increase standard deviation *  1.1
+1587 : increase standard deviation *  1.7
+1588 : increase standard deviation *  1.1
+1595 : increase standard deviation *  1.1
+1611 : increase standard deviation *  1.1
+1614 : increase standard deviation *  1.4
+1616 : increase standard deviation *  1.2
+1617 : increase standard deviation *  1.2
+1619 : increase standard deviation *  1.2
+1624 : increase standard deviation *  1.3
+1627 : increase standard deviation *  1.3
+1629 : increase standard deviation *  1.3
+1633 : increase standard deviation *  1.3
+1634 : increase standard deviation *  1.4
+1635 : increase standard deviation *  1.7
+1636 : increase standard deviation *  1.2
+1642 : increase standard deviation *  1.1
+1650 : increase standard deviation *  1.1
+1656 : increase standard deviation *  1.1
+1662 : increase standard deviation *  1.2
+1665 : increase standard deviation *  1.7
+1667 : increase standard deviation *  1.3
+1670 : increase standard deviation *  1.2
+1672 : increase standard deviation *  1.2
+1679 : increase standard deviation *  1.6
+1687 : increase standard deviation *  1.1
+1690 : increase standard deviation *  1.2
+1705 : increase standard deviation *  1.7
+1707 : increase standard deviation *  1.7
+1708 : increase standard deviation *  1.1
+1710 : increase standard deviation *  1.4
+1714 : increase standard deviation *  1.2
+1718 : increase standard deviation *  1.2
+1720 : increase standard deviation *  1.2
+1722 : increase standard deviation *  1.2
+1725 : increase standard deviation *  1.1
+1726 : increase standard deviation *  1.2
+1735 : increase standard deviation *  1.1
+1738 : increase standard deviation *  1.3
+1740 : increase standard deviation *  1.3
+1743 : increase standard deviation *  1.3
+1748 : increase standard deviation *  1.2
+1772 : increase standard deviation *  1.1
+1781 : increase standard deviation *  1.2
+1783 : increase standard deviation *  1.3
+1786 : increase standard deviation *  1.2
+1791 : increase standard deviation *  1.7
+1792 : increase standard deviation *  1.4
+1793 : increase standard deviation *  1.3
+1795 : increase standard deviation *  1.1
+1796 : increase standard deviation *  1.1
+1798 : increase standard deviation *  1.4
+ Iteration   5,   0 : Calculating Sensitivities
+ Iteration   5,   0 : Updating
+ Iteration   5,   0 : Calculating Potentials
+ Iteration   5,   1 : Updating
+ Iteration   5,   1 : Calculating Potentials
+ Iteration   5,   2 : Updating
+ Iteration   5,   2 : Calculating Potentials
+ Iteration   5,   3 : Updating
+ Iteration   5,   3 : Calculating Potentials
+ Iteration   5,   4 : Updating
+ Iteration   5,   4 : Calculating Potentials
+ Iteration   5,   5 : Updating
+ Iteration   5,   5 : Calculating Potentials
+ Iteration   5,   6 : Updating
+ Iteration   5,   6 : Calculating Potentials
+ Iteration   5,   7 : Updating
+ Iteration   5,   7 : Calculating Potentials
+ Iteration   5,   7 : Updating
+ Iteration   5,   7 : Calculating Potentials
+   7 : increase standard deviation *  1.3
+   8 : increase standard deviation *  1.6
+   9 : increase standard deviation *  1.6
+  12 : increase standard deviation *  1.5
+  15 : increase standard deviation *  1.6
+  16 : increase standard deviation *  1.6
+  24 : increase standard deviation *  1.6
+  25 : increase standard deviation *  1.1
+  26 : increase standard deviation *  1.7
+  28 : increase standard deviation *  1.2
+  31 : increase standard deviation *  1.4
+  33 : increase standard deviation *  1.5
+  37 : increase standard deviation *  1.6
+  48 : increase standard deviation *  1.6
+  63 : increase standard deviation *  1.4
+  66 : increase standard deviation *  1.4
+  68 : increase standard deviation *  1.3
+  77 : increase standard deviation *  1.6
+  87 : increase standard deviation *  1.7
+  88 : increase standard deviation *  1.7
+  93 : increase standard deviation *  1.1
+  95 : increase standard deviation *  1.6
+ 105 : increase standard deviation *  1.2
+ 112 : increase standard deviation *  1.6
+ 113 : increase standard deviation *  1.4
+ 115 : increase standard deviation *  1.7
+ 117 : increase standard deviation *  1.2
+ 118 : increase standard deviation *  1.3
+ 119 : increase standard deviation *  1.7
+ 124 : increase standard deviation *  1.4
+ 138 : increase standard deviation *  1.1
+ 141 : increase standard deviation *  1.7
+ 143 : increase standard deviation *  1.2
+ 145 : increase standard deviation *  1.3
+ 148 : increase standard deviation *  1.6
+ 152 : increase standard deviation *  1.2
+ 153 : increase standard deviation *  1.5
+ 155 : increase standard deviation *  1.6
+ 156 : increase standard deviation *  1.7
+ 163 : increase standard deviation *  1.3
+ 169 : increase standard deviation *  1.4
+ 174 : increase standard deviation *  1.7
+ 175 : increase standard deviation *  1.2
+ 176 : increase standard deviation *  1.3
+ 177 : increase standard deviation *  1.3
+ 186 : increase standard deviation *  1.7
+ 187 : increase standard deviation *  1.6
+ 188 : increase standard deviation *  1.3
+ 189 : increase standard deviation *  1.3
+ 193 : increase standard deviation *  1.7
+ 194 : increase standard deviation *  1.2
+ 203 : increase standard deviation *  1.6
+ 205 : increase standard deviation *  1.1
+ 213 : increase standard deviation *  1.3
+ 214 : increase standard deviation *  1.1
+ 215 : increase standard deviation *  1.8
+ 219 : increase standard deviation *  1.2
+ 223 : increase standard deviation *  1.6
+ 224 : increase standard deviation *  1.6
+ 228 : increase standard deviation *  1.2
+ 229 : increase standard deviation *  1.2
+ 231 : increase standard deviation *  1.5
+ 232 : increase standard deviation *  1.5
+ 233 : increase standard deviation *  1.7
+ 237 : increase standard deviation *  1.2
+ 241 : increase standard deviation *  1.2
+ 244 : increase standard deviation *  1.6
+ 245 : increase standard deviation *  1.5
+ 252 : increase standard deviation *  1.4
+ 262 : increase standard deviation *  1.7
+ 263 : increase standard deviation *  1.7
+ 264 : increase standard deviation *  1.3
+ 272 : increase standard deviation *  1.1
+ 290 : increase standard deviation *  1.1
+ 291 : increase standard deviation *  1.3
+ 301 : increase standard deviation *  1.2
+ 302 : increase standard deviation *  1.6
+ 303 : increase standard deviation *  1.4
+ 304 : increase standard deviation *  1.6
+ 306 : increase standard deviation *  1.6
+ 308 : increase standard deviation *  1.7
+ 309 : increase standard deviation *  1.6
+ 328 : increase standard deviation *  1.2
+ 346 : increase standard deviation *  1.8
+ 347 : increase standard deviation *  1.6
+ 348 : increase standard deviation *  1.4
+ 352 : increase standard deviation *  1.2
+ 357 : increase standard deviation *  1.2
+ 362 : increase standard deviation *  1.6
+ 365 : increase standard deviation *  1.6
+ 367 : increase standard deviation *  1.5
+ 368 : increase standard deviation *  1.2
+ 372 : increase standard deviation *  1.2
+ 375 : increase standard deviation *  1.7
+ 376 : increase standard deviation *  1.7
+ 379 : increase standard deviation *  1.7
+ 381 : increase standard deviation *  1.7
+ 382 : increase standard deviation *  1.3
+ 390 : increase standard deviation *  1.4
+ 394 : increase standard deviation *  1.3
+ 395 : increase standard deviation *  1.1
+ 396 : increase standard deviation *  1.7
+ 397 : increase standard deviation *  1.2
+ 398 : increase standard deviation *  1.5
+ 402 : increase standard deviation *  1.2
+ 421 : increase standard deviation *  1.4
+ 425 : increase standard deviation *  1.7
+ 430 : increase standard deviation *  1.3
+ 433 : increase standard deviation *  1.7
+ 436 : increase standard deviation *  1.7
+ 438 : increase standard deviation *  1.2
+ 442 : increase standard deviation *  1.5
+ 457 : increase standard deviation *  1.3
+ 466 : increase standard deviation *  1.4
+ 469 : increase standard deviation *  1.6
+ 471 : increase standard deviation *  1.2
+ 476 : increase standard deviation *  1.2
+ 478 : increase standard deviation *  1.3
+ 481 : increase standard deviation *  1.1
+ 484 : increase standard deviation *  1.7
+ 486 : increase standard deviation *  1.3
+ 487 : increase standard deviation *  1.6
+ 489 : increase standard deviation *  1.6
+ 491 : increase standard deviation *  1.6
+ 510 : increase standard deviation *  1.6
+ 516 : increase standard deviation *  1.5
+ 533 : increase standard deviation *  1.7
+ 534 : increase standard deviation *  1.5
+ 544 : increase standard deviation *  1.7
+ 546 : increase standard deviation *  1.4
+ 553 : increase standard deviation *  1.1
+ 555 : increase standard deviation *  1.7
+ 556 : increase standard deviation *  1.7
+ 559 : increase standard deviation *  1.2
+ 560 : increase standard deviation *  1.2
+ 562 : increase standard deviation *  1.3
+ 567 : increase standard deviation *  1.7
+ 568 : increase standard deviation *  1.3
+ 575 : increase standard deviation *  1.1
+ 588 : increase standard deviation *  1.1
+ 596 : increase standard deviation *  1.6
+ 597 : increase standard deviation *  1.6
+ 599 : increase standard deviation *  1.3
+ 602 : increase standard deviation *  1.7
+ 603 : increase standard deviation *  1.4
+ 604 : increase standard deviation *  1.2
+ 608 : increase standard deviation *  1.3
+ 611 : increase standard deviation *  1.7
+ 616 : increase standard deviation *  1.2
+ 621 : increase standard deviation *  1.7
+ 622 : increase standard deviation *  1.7
+ 624 : increase standard deviation *  1.1
+ 625 : increase standard deviation *  1.5
+ 638 : increase standard deviation *  1.5
+ 649 : increase standard deviation *  1.4
+ 671 : increase standard deviation *  1.4
+ 672 : increase standard deviation *  1.6
+ 673 : increase standard deviation *  1.6
+ 675 : increase standard deviation *  1.1
+ 679 : increase standard deviation *  1.4
+ 681 : increase standard deviation *  1.1
+ 684 : increase standard deviation *  1.7
+ 690 : increase standard deviation *  1.2
+ 692 : increase standard deviation *  1.6
+ 693 : increase standard deviation *  1.4
+ 695 : increase standard deviation *  1.7
+ 699 : increase standard deviation *  1.3
+ 704 : increase standard deviation *  1.3
+ 713 : increase standard deviation *  1.7
+ 716 : increase standard deviation *  1.7
+ 718 : increase standard deviation *  1.2
+ 727 : increase standard deviation *  1.6
+ 734 : increase standard deviation *  1.6
+ 738 : increase standard deviation *  1.2
+ 740 : increase standard deviation *  1.2
+ 742 : increase standard deviation *  1.1
+ 747 : increase standard deviation *  1.4
+ 751 : increase standard deviation *  1.3
+ 753 : increase standard deviation *  1.2
+ 755 : increase standard deviation *  1.8
+ 756 : increase standard deviation *  1.1
+ 758 : increase standard deviation *  1.1
+ 760 : increase standard deviation *  1.6
+ 761 : increase standard deviation *  1.2
+ 764 : increase standard deviation *  1.2
+ 786 : increase standard deviation *  1.6
+ 788 : increase standard deviation *  1.4
+ 790 : increase standard deviation *  1.6
+ 791 : increase standard deviation *  1.8
+ 792 : increase standard deviation *  1.2
+ 795 : increase standard deviation *  1.6
+ 796 : increase standard deviation *  1.3
+ 797 : increase standard deviation *  1.6
+ 799 : increase standard deviation *  1.4
+ 806 : increase standard deviation *  1.2
+ 810 : increase standard deviation *  1.1
+ 816 : increase standard deviation *  1.7
+ 817 : increase standard deviation *  1.7
+ 830 : increase standard deviation *  1.5
+ 834 : increase standard deviation *  1.7
+ 841 : increase standard deviation *  1.7
+ 848 : increase standard deviation *  1.7
+ 863 : increase standard deviation *  1.2
+ 874 : increase standard deviation *  1.2
+ 882 : increase standard deviation *  1.4
+ 884 : increase standard deviation *  1.7
+ 887 : increase standard deviation *  1.3
+ 889 : increase standard deviation *  1.3
+ 892 : increase standard deviation *  1.3
+ 900 : increase standard deviation *  1.1
+ 906 : increase standard deviation *  1.7
+ 910 : increase standard deviation *  1.3
+ 911 : increase standard deviation *  1.2
+ 914 : increase standard deviation *  1.3
+ 915 : increase standard deviation *  1.7
+ 917 : increase standard deviation *  1.6
+ 920 : increase standard deviation *  1.5
+ 949 : increase standard deviation *  1.3
+ 951 : increase standard deviation *  1.2
+ 962 : increase standard deviation *  1.2
+ 966 : increase standard deviation *  1.1
+ 973 : increase standard deviation *  1.2
+ 979 : increase standard deviation *  1.3
+ 983 : increase standard deviation *  1.3
+ 989 : increase standard deviation *  1.2
+ 992 : increase standard deviation *  1.2
+ 993 : increase standard deviation *  1.3
+ 995 : increase standard deviation *  1.2
+ 997 : increase standard deviation *  1.2
+1002 : increase standard deviation *  1.2
+1003 : increase standard deviation *  1.3
+1011 : increase standard deviation *  1.1
+1026 : increase standard deviation *  1.2
+1046 : increase standard deviation *  1.1
+1048 : increase standard deviation *  1.2
+1049 : increase standard deviation *  1.3
+1052 : increase standard deviation *  1.6
+1060 : increase standard deviation *  1.1
+1062 : increase standard deviation *  1.6
+1082 : increase standard deviation *  1.1
+1091 : increase standard deviation *  1.4
+1092 : increase standard deviation *  1.3
+1095 : increase standard deviation *  1.4
+1097 : increase standard deviation *  1.3
+1099 : increase standard deviation *  1.2
+1100 : increase standard deviation *  1.2
+1104 : increase standard deviation *  1.2
+1105 : increase standard deviation *  1.1
+1112 : increase standard deviation *  1.7
+1120 : increase standard deviation *  1.8
+1121 : increase standard deviation *  1.6
+1123 : increase standard deviation *  1.3
+1130 : increase standard deviation *  1.3
+1132 : increase standard deviation *  1.2
+1136 : increase standard deviation *  1.1
+1138 : increase standard deviation *  1.2
+1162 : increase standard deviation *  1.5
+1163 : increase standard deviation *  1.4
+1175 : increase standard deviation *  1.6
+1184 : increase standard deviation *  1.4
+1186 : increase standard deviation *  1.5
+1193 : increase standard deviation *  1.1
+1194 : increase standard deviation *  1.2
+1196 : increase standard deviation *  1.1
+1198 : increase standard deviation *  1.3
+1207 : increase standard deviation *  1.7
+1221 : increase standard deviation *  1.6
+1223 : increase standard deviation *  1.8
+1225 : increase standard deviation *  1.2
+1228 : increase standard deviation *  1.4
+1230 : increase standard deviation *  1.1
+1232 : increase standard deviation *  1.4
+1241 : increase standard deviation *  1.2
+1242 : increase standard deviation *  1.2
+1263 : increase standard deviation *  1.1
+1264 : increase standard deviation *  1.1
+1281 : increase standard deviation *  1.4
+1284 : increase standard deviation *  1.3
+1288 : increase standard deviation *  1.3
+1294 : increase standard deviation *  1.2
+1295 : increase standard deviation *  1.4
+1303 : increase standard deviation *  1.2
+1304 : increase standard deviation *  1.2
+1315 : increase standard deviation *  1.2
+1318 : increase standard deviation *  1.7
+1320 : increase standard deviation *  1.7
+1323 : increase standard deviation *  1.1
+1324 : increase standard deviation *  1.4
+1325 : increase standard deviation *  1.7
+1326 : increase standard deviation *  1.2
+1329 : increase standard deviation *  1.4
+1339 : increase standard deviation *  1.5
+1341 : increase standard deviation *  1.4
+1344 : increase standard deviation *  1.5
+1354 : increase standard deviation *  1.1
+1355 : increase standard deviation *  1.1
+1358 : increase standard deviation *  1.7
+1359 : increase standard deviation *  1.1
+1361 : increase standard deviation *  1.7
+1362 : increase standard deviation *  1.4
+1365 : increase standard deviation *  1.3
+1376 : increase standard deviation *  1.1
+1384 : increase standard deviation *  1.3
+1388 : increase standard deviation *  1.2
+1389 : increase standard deviation *  1.2
+1391 : increase standard deviation *  1.5
+1392 : increase standard deviation *  1.8
+1401 : increase standard deviation *  1.3
+1404 : increase standard deviation *  1.7
+1410 : increase standard deviation *  1.4
+1413 : increase standard deviation *  1.2
+1437 : increase standard deviation *  1.7
+1438 : increase standard deviation *  1.6
+1440 : increase standard deviation *  1.4
+1445 : increase standard deviation *  1.2
+1457 : increase standard deviation *  1.4
+1459 : increase standard deviation *  1.1
+1462 : increase standard deviation *  1.7
+1475 : increase standard deviation *  1.6
+1478 : increase standard deviation *  1.7
+1481 : increase standard deviation *  1.4
+1483 : increase standard deviation *  1.4
+1501 : increase standard deviation *  1.2
+1502 : increase standard deviation *  1.1
+1505 : increase standard deviation *  1.3
+1507 : increase standard deviation *  1.2
+1508 : increase standard deviation *  1.1
+1509 : increase standard deviation *  1.7
+1512 : increase standard deviation *  1.2
+1515 : increase standard deviation *  1.7
+1521 : increase standard deviation *  1.1
+1525 : increase standard deviation *  1.7
+1550 : increase standard deviation *  1.3
+1552 : increase standard deviation *  1.3
+1554 : increase standard deviation *  1.2
+1564 : increase standard deviation *  1.1
+1565 : increase standard deviation *  1.2
+1567 : increase standard deviation *  1.3
+1574 : increase standard deviation *  1.3
+1580 : increase standard deviation *  1.3
+1587 : increase standard deviation *  1.7
+1588 : increase standard deviation *  1.3
+1604 : increase standard deviation *  1.2
+1614 : increase standard deviation *  1.4
+1616 : increase standard deviation *  1.3
+1618 : increase standard deviation *  1.1
+1624 : increase standard deviation *  1.5
+1627 : increase standard deviation *  1.1
+1629 : increase standard deviation *  1.2
+1633 : increase standard deviation *  1.4
+1634 : increase standard deviation *  1.4
+1635 : increase standard deviation *  1.7
+1636 : increase standard deviation *  1.3
+1662 : increase standard deviation *  1.2
+1665 : increase standard deviation *  1.7
+1667 : increase standard deviation *  1.3
+1679 : increase standard deviation *  1.5
+1681 : increase standard deviation *  1.6
+1690 : increase standard deviation *  1.2
+1698 : increase standard deviation *  1.2
+1705 : increase standard deviation *  1.7
+1707 : increase standard deviation *  1.6
+1710 : increase standard deviation *  1.4
+1728 : increase standard deviation *  1.4
+1738 : increase standard deviation *  1.2
+1740 : increase standard deviation *  1.2
+1743 : increase standard deviation *  1.4
+1780 : increase standard deviation *  1.2
+1783 : increase standard deviation *  1.2
+1786 : increase standard deviation *  1.3
+1789 : increase standard deviation *  1.6
+1791 : increase standard deviation *  1.7
+1792 : increase standard deviation *  1.4
+1798 : increase standard deviation *  1.3
+ Iteration   6,   0 : Calculating Sensitivities
+ Iteration   6,   0 : Updating
+ Iteration   6,   0 : Calculating Potentials
+ Iteration   6,   1 : Updating
+ Iteration   6,   1 : Calculating Potentials
+ Iteration   6,   2 : Updating
+ Iteration   6,   2 : Calculating Potentials
+ Iteration   6,   3 : Updating
+ Iteration   6,   3 : Calculating Potentials
+ Iteration   6,   4 : Updating
+ Iteration   6,   4 : Calculating Potentials
+ Iteration   6,   5 : Updating
+ Iteration   6,   5 : Calculating Potentials
+ Iteration   6,   5 : Updating
+ Iteration   6,   5 : Calculating Potentials
+   5 : increase standard deviation *  1.1
+   7 : increase standard deviation *  1.2
+   8 : increase standard deviation *  1.4
+   9 : increase standard deviation *  1.4
+  12 : increase standard deviation *  1.4
+  15 : increase standard deviation *  1.4
+  16 : increase standard deviation *  1.4
+  24 : increase standard deviation *  1.5
+  25 : increase standard deviation *  1.2
+  26 : increase standard deviation *  1.4
+  28 : increase standard deviation *  1.2
+  31 : increase standard deviation *  1.3
+  33 : increase standard deviation *  1.4
+  35 : increase standard deviation *  1.1
+  37 : increase standard deviation *  1.5
+  40 : increase standard deviation *  1.1
+  48 : increase standard deviation *  1.4
+  63 : increase standard deviation *  1.4
+  66 : increase standard deviation *  1.3
+  68 : increase standard deviation *  1.4
+  77 : increase standard deviation *  1.4
+  87 : increase standard deviation *  1.5
+  88 : increase standard deviation *  1.5
+  93 : increase standard deviation *  1.2
+  95 : increase standard deviation *  1.4
+ 100 : increase standard deviation *  1.1
+ 105 : increase standard deviation *  1.2
+ 112 : increase standard deviation *  1.5
+ 113 : increase standard deviation *  1.1
+ 115 : increase standard deviation *  1.5
+ 116 : increase standard deviation *  1.2
+ 117 : increase standard deviation *  1.2
+ 118 : increase standard deviation *  1.3
+ 119 : increase standard deviation *  1.4
+ 124 : increase standard deviation *  1.4
+ 129 : increase standard deviation *  1.2
+ 137 : increase standard deviation *  1.1
+ 138 : increase standard deviation *  1.2
+ 141 : increase standard deviation *  1.5
+ 143 : increase standard deviation *  1.2
+ 145 : increase standard deviation *  1.4
+ 148 : increase standard deviation *  1.5
+ 152 : increase standard deviation *  1.3
+ 153 : increase standard deviation *  1.3
+ 155 : increase standard deviation *  1.4
+ 156 : increase standard deviation *  1.5
+ 163 : increase standard deviation *  1.3
+ 169 : increase standard deviation *  1.2
+ 174 : increase standard deviation *  1.5
+ 175 : increase standard deviation *  1.2
+ 176 : increase standard deviation *  1.1
+ 177 : increase standard deviation *  1.2
+ 186 : increase standard deviation *  1.5
+ 187 : increase standard deviation *  1.4
+ 188 : increase standard deviation *  1.3
+ 189 : increase standard deviation *  1.3
+ 193 : increase standard deviation *  1.5
+ 194 : increase standard deviation *  1.2
+ 203 : increase standard deviation *  1.4
+ 205 : increase standard deviation *  1.2
+ 208 : increase standard deviation *  1.2
+ 213 : increase standard deviation *  1.2
+ 215 : increase standard deviation *  1.5
+ 219 : increase standard deviation *  1.2
+ 223 : increase standard deviation *  1.4
+ 224 : increase standard deviation *  1.4
+ 227 : increase standard deviation *  1.2
+ 228 : increase standard deviation *  1.3
+ 231 : increase standard deviation *  1.4
+ 232 : increase standard deviation *  1.4
+ 233 : increase standard deviation *  1.4
+ 237 : increase standard deviation *  1.2
+ 241 : increase standard deviation *  1.2
+ 244 : increase standard deviation *  1.5
+ 245 : increase standard deviation *  1.4
+ 252 : increase standard deviation *  1.3
+ 262 : increase standard deviation *  1.5
+ 263 : increase standard deviation *  1.5
+ 264 : increase standard deviation *  1.3
+ 272 : increase standard deviation *  1.1
+ 290 : increase standard deviation *  1.1
+ 291 : increase standard deviation *  1.2
+ 301 : increase standard deviation *  1.1
+ 302 : increase standard deviation *  1.4
+ 303 : increase standard deviation *  1.3
+ 304 : increase standard deviation *  1.4
+ 306 : increase standard deviation *  1.4
+ 308 : increase standard deviation *  1.5
+ 309 : increase standard deviation *  1.4
+ 322 : increase standard deviation *  1.2
+ 327 : increase standard deviation *  1.2
+ 328 : increase standard deviation *  1.1
+ 346 : increase standard deviation *  1.5
+ 347 : increase standard deviation *  1.4
+ 348 : increase standard deviation *  1.3
+ 352 : increase standard deviation *  1.2
+ 357 : increase standard deviation *  1.1
+ 362 : increase standard deviation *  1.4
+ 365 : increase standard deviation *  1.4
+ 367 : increase standard deviation *  1.4
+ 368 : increase standard deviation *  1.2
+ 370 : increase standard deviation *  1.2
+ 372 : increase standard deviation *  1.2
+ 374 : increase standard deviation *  1.1
+ 375 : increase standard deviation *  1.5
+ 376 : increase standard deviation *  1.5
+ 379 : increase standard deviation *  1.5
+ 381 : increase standard deviation *  1.5
+ 382 : increase standard deviation *  1.2
+ 390 : increase standard deviation *  1.2
+ 394 : increase standard deviation *  1.2
+ 395 : increase standard deviation *  1.2
+ 396 : increase standard deviation *  1.5
+ 397 : increase standard deviation *  1.3
+ 398 : increase standard deviation *  1.4
+ 400 : increase standard deviation *  1.2
+ 403 : increase standard deviation *  1.1
+ 406 : increase standard deviation *  1.2
+ 413 : increase standard deviation *  1.2
+ 421 : increase standard deviation *  1.4
+ 425 : increase standard deviation *  1.5
+ 430 : increase standard deviation *  1.4
+ 431 : increase standard deviation *  1.1
+ 433 : increase standard deviation *  1.5
+ 436 : increase standard deviation *  1.5
+ 438 : increase standard deviation *  1.2
+ 441 : increase standard deviation *  1.1
+ 442 : increase standard deviation *  1.4
+ 457 : increase standard deviation *  1.1
+ 460 : increase standard deviation *  1.1
+ 463 : increase standard deviation *  1.1
+ 466 : increase standard deviation *  1.4
+ 469 : increase standard deviation *  1.4
+ 471 : increase standard deviation *  1.3
+ 478 : increase standard deviation *  1.1
+ 481 : increase standard deviation *  1.2
+ 484 : increase standard deviation *  1.5
+ 486 : increase standard deviation *  1.2
+ 487 : increase standard deviation *  1.4
+ 489 : increase standard deviation *  1.4
+ 491 : increase standard deviation *  1.4
+ 497 : increase standard deviation *  1.1
+ 507 : increase standard deviation *  1.1
+ 510 : increase standard deviation *  1.5
+ 514 : increase standard deviation *  1.2
+ 516 : increase standard deviation *  1.4
+ 519 : increase standard deviation *  1.2
+ 525 : increase standard deviation *  1.2
+ 533 : increase standard deviation *  1.5
+ 534 : increase standard deviation *  1.3
+ 536 : increase standard deviation *  1.1
+ 538 : increase standard deviation *  1.1
+ 541 : increase standard deviation *  1.2
+ 544 : increase standard deviation *  1.5
+ 546 : increase standard deviation *  1.4
+ 553 : increase standard deviation *  1.1
+ 555 : increase standard deviation *  1.5
+ 556 : increase standard deviation *  1.5
+ 559 : increase standard deviation *  1.2
+ 560 : increase standard deviation *  1.2
+ 562 : increase standard deviation *  1.2
+ 565 : increase standard deviation *  1.1
+ 567 : increase standard deviation *  1.5
+ 568 : increase standard deviation *  1.2
+ 571 : increase standard deviation *  1.1
+ 575 : increase standard deviation *  1.2
+ 583 : increase standard deviation *  1.2
+ 588 : increase standard deviation *  1.2
+ 593 : increase standard deviation *  1.2
+ 596 : increase standard deviation *  1.4
+ 597 : increase standard deviation *  1.4
+ 599 : increase standard deviation *  1.3
+ 602 : increase standard deviation *  1.5
+ 603 : increase standard deviation *  1.2
+ 604 : increase standard deviation *  1.2
+ 608 : increase standard deviation *  1.3
+ 609 : increase standard deviation *  1.2
+ 611 : increase standard deviation *  1.5
+ 616 : increase standard deviation *  1.3
+ 618 : increase standard deviation *  1.1
+ 621 : increase standard deviation *  1.5
+ 622 : increase standard deviation *  1.5
+ 624 : increase standard deviation *  1.1
+ 625 : increase standard deviation *  1.4
+ 638 : increase standard deviation *  1.3
+ 640 : increase standard deviation *  1.2
+ 645 : increase standard deviation *  1.1
+ 649 : increase standard deviation *  1.2
+ 654 : increase standard deviation *  1.1
+ 660 : increase standard deviation *  1.1
+ 663 : increase standard deviation *  1.2
+ 671 : increase standard deviation *  1.2
+ 672 : increase standard deviation *  1.4
+ 673 : increase standard deviation *  1.4
+ 679 : increase standard deviation *  1.3
+ 681 : increase standard deviation *  1.1
+ 684 : increase standard deviation *  1.5
+ 690 : increase standard deviation *  1.1
+ 692 : increase standard deviation *  1.4
+ 693 : increase standard deviation *  1.3
+ 695 : increase standard deviation *  1.5
+ 699 : increase standard deviation *  1.3
+ 704 : increase standard deviation *  1.3
+ 712 : increase standard deviation *  1.1
+ 713 : increase standard deviation *  1.5
+ 714 : increase standard deviation *  1.1
+ 716 : increase standard deviation *  1.5
+ 718 : increase standard deviation *  1.2
+ 719 : increase standard deviation *  1.1
+ 727 : increase standard deviation *  1.4
+ 734 : increase standard deviation *  1.4
+ 738 : increase standard deviation *  1.2
+ 740 : increase standard deviation *  1.1
+ 742 : increase standard deviation *  1.2
+ 747 : increase standard deviation *  1.3
+ 751 : increase standard deviation *  1.2
+ 755 : increase standard deviation *  1.5
+ 759 : increase standard deviation *  1.1
+ 760 : increase standard deviation *  1.5
+ 761 : increase standard deviation *  1.2
+ 779 : increase standard deviation *  1.2
+ 786 : increase standard deviation *  1.4
+ 788 : increase standard deviation *  1.3
+ 790 : increase standard deviation *  1.4
+ 791 : increase standard deviation *  1.5
+ 792 : increase standard deviation *  1.2
+ 795 : increase standard deviation *  1.4
+ 796 : increase standard deviation *  1.3
+ 797 : increase standard deviation *  1.4
+ 799 : increase standard deviation *  1.4
+ 805 : increase standard deviation *  1.1
+ 806 : increase standard deviation *  1.2
+ 810 : increase standard deviation *  1.1
+ 811 : increase standard deviation *  1.2
+ 816 : increase standard deviation *  1.5
+ 817 : increase standard deviation *  1.5
+ 830 : increase standard deviation *  1.5
+ 834 : increase standard deviation *  1.5
+ 841 : increase standard deviation *  1.5
+ 842 : increase standard deviation *  1.1
+ 848 : increase standard deviation *  1.5
+ 872 : increase standard deviation *  1.1
+ 873 : increase standard deviation *  1.3
+ 874 : increase standard deviation *  1.2
+ 877 : increase standard deviation *  1.1
+ 881 : increase standard deviation *  1.2
+ 882 : increase standard deviation *  1.3
+ 884 : increase standard deviation *  1.5
+ 887 : increase standard deviation *  1.1
+ 903 : increase standard deviation *  1.2
+ 906 : increase standard deviation *  1.5
+ 907 : increase standard deviation *  1.1
+ 910 : increase standard deviation *  1.3
+ 911 : increase standard deviation *  1.1
+ 915 : increase standard deviation *  1.5
+ 917 : increase standard deviation *  1.4
+ 920 : increase standard deviation *  1.4
+ 933 : increase standard deviation *  1.3
+ 947 : increase standard deviation *  1.1
+ 949 : increase standard deviation *  1.2
+ 951 : increase standard deviation *  1.2
+ 966 : increase standard deviation *  1.2
+ 970 : increase standard deviation *  1.1
+ 979 : increase standard deviation *  1.3
+ 981 : increase standard deviation *  1.2
+ 983 : increase standard deviation *  1.3
+1003 : increase standard deviation *  1.2
+1011 : increase standard deviation *  1.2
+1015 : increase standard deviation *  1.2
+1026 : increase standard deviation *  1.2
+1048 : increase standard deviation *  1.2
+1049 : increase standard deviation *  1.3
+1051 : increase standard deviation *  1.2
+1052 : increase standard deviation *  1.4
+1060 : increase standard deviation *  1.1
+1062 : increase standard deviation *  1.5
+1065 : increase standard deviation *  1.2
+1071 : increase standard deviation *  1.1
+1076 : increase standard deviation *  1.2
+1080 : increase standard deviation *  1.1
+1081 : increase standard deviation *  1.1
+1082 : increase standard deviation *  1.2
+1083 : increase standard deviation *  1.1
+1085 : increase standard deviation *  1.1
+1091 : increase standard deviation *  1.3
+1093 : increase standard deviation *  1.3
+1095 : increase standard deviation *  1.1
+1096 : increase standard deviation *  1.1
+1099 : increase standard deviation *  1.2
+1112 : increase standard deviation *  1.5
+1114 : increase standard deviation *  1.2
+1116 : increase standard deviation *  1.1
+1120 : increase standard deviation *  1.5
+1121 : increase standard deviation *  1.4
+1123 : increase standard deviation *  1.4
+1127 : increase standard deviation *  1.1
+1129 : increase standard deviation *  1.2
+1155 : increase standard deviation *  1.3
+1158 : increase standard deviation *  1.1
+1162 : increase standard deviation *  1.4
+1163 : increase standard deviation *  1.4
+1170 : increase standard deviation *  1.1
+1175 : increase standard deviation *  1.4
+1182 : increase standard deviation *  1.1
+1184 : increase standard deviation *  1.3
+1185 : increase standard deviation *  1.3
+1186 : increase standard deviation *  1.4
+1187 : increase standard deviation *  1.2
+1195 : increase standard deviation *  1.1
+1198 : increase standard deviation *  1.1
+1202 : increase standard deviation *  1.1
+1207 : increase standard deviation *  1.5
+1213 : increase standard deviation *  1.2
+1214 : increase standard deviation *  1.2
+1220 : increase standard deviation *  1.1
+1221 : increase standard deviation *  1.4
+1223 : increase standard deviation *  1.5
+1224 : increase standard deviation *  1.2
+1225 : increase standard deviation *  1.3
+1226 : increase standard deviation *  1.2
+1228 : increase standard deviation *  1.3
+1232 : increase standard deviation *  1.2
+1262 : increase standard deviation *  1.4
+1263 : increase standard deviation *  1.1
+1264 : increase standard deviation *  1.2
+1270 : increase standard deviation *  1.1
+1294 : increase standard deviation *  1.2
+1302 : increase standard deviation *  1.1
+1306 : increase standard deviation *  1.2
+1311 : increase standard deviation *  1.1
+1315 : increase standard deviation *  1.2
+1316 : increase standard deviation *  1.1
+1317 : increase standard deviation *  1.1
+1318 : increase standard deviation *  1.5
+1320 : increase standard deviation *  1.5
+1323 : increase standard deviation *  1.2
+1324 : increase standard deviation *  1.4
+1325 : increase standard deviation *  1.4
+1326 : increase standard deviation *  1.3
+1327 : increase standard deviation *  1.2
+1329 : increase standard deviation *  1.4
+1330 : increase standard deviation *  1.2
+1339 : increase standard deviation *  1.4
+1343 : increase standard deviation *  1.1
+1344 : increase standard deviation *  1.2
+1352 : increase standard deviation *  1.2
+1354 : increase standard deviation *  1.2
+1356 : increase standard deviation *  1.2
+1358 : increase standard deviation *  1.5
+1360 : increase standard deviation *  1.2
+1361 : increase standard deviation *  1.5
+1362 : increase standard deviation *  1.3
+1365 : increase standard deviation *  1.3
+1370 : increase standard deviation *  1.2
+1373 : increase standard deviation *  1.1
+1376 : increase standard deviation *  1.2
+1377 : increase standard deviation *  1.1
+1380 : increase standard deviation *  1.3
+1385 : increase standard deviation *  1.1
+1389 : increase standard deviation *  1.1
+1390 : increase standard deviation *  1.2
+1391 : increase standard deviation *  1.1
+1392 : increase standard deviation *  1.5
+1394 : increase standard deviation *  1.2
+1396 : increase standard deviation *  1.1
+1398 : increase standard deviation *  1.2
+1399 : increase standard deviation *  1.1
+1404 : increase standard deviation *  1.4
+1406 : increase standard deviation *  1.2
+1410 : increase standard deviation *  1.3
+1415 : increase standard deviation *  1.1
+1418 : increase standard deviation *  1.2
+1420 : increase standard deviation *  1.2
+1423 : increase standard deviation *  1.2
+1424 : increase standard deviation *  1.1
+1427 : increase standard deviation *  1.1
+1435 : increase standard deviation *  1.2
+1437 : increase standard deviation *  1.5
+1438 : increase standard deviation *  1.4
+1440 : increase standard deviation *  1.4
+1443 : increase standard deviation *  1.1
+1445 : increase standard deviation *  1.4
+1446 : increase standard deviation *  1.2
+1450 : increase standard deviation *  1.2
+1451 : increase standard deviation *  1.4
+1454 : increase standard deviation *  1.1
+1455 : increase standard deviation *  1.2
+1457 : increase standard deviation *  1.3
+1462 : increase standard deviation *  1.5
+1463 : increase standard deviation *  1.2
+1475 : increase standard deviation *  1.4
+1477 : increase standard deviation *  1.2
+1478 : increase standard deviation *  1.5
+1481 : increase standard deviation *  1.4
+1483 : increase standard deviation *  1.3
+1489 : increase standard deviation *  1.2
+1490 : increase standard deviation *  1.1
+1495 : increase standard deviation *  1.1
+1496 : increase standard deviation *  1.1
+1497 : increase standard deviation *  1.1
+1501 : increase standard deviation *  1.1
+1507 : increase standard deviation *  1.1
+1508 : increase standard deviation *  1.2
+1509 : increase standard deviation *  1.4
+1512 : increase standard deviation *  1.3
+1515 : increase standard deviation *  1.6
+1521 : increase standard deviation *  1.3
+1525 : increase standard deviation *  1.5
+1527 : increase standard deviation *  1.2
+1528 : increase standard deviation *  1.1
+1533 : increase standard deviation *  1.1
+1535 : increase standard deviation *  1.1
+1536 : increase standard deviation *  1.1
+1540 : increase standard deviation *  1.2
+1544 : increase standard deviation *  1.1
+1549 : increase standard deviation *  1.2
+1550 : increase standard deviation *  1.3
+1552 : increase standard deviation *  1.3
+1554 : increase standard deviation *  1.3
+1559 : increase standard deviation *  1.1
+1560 : increase standard deviation *  1.1
+1565 : increase standard deviation *  1.3
+1581 : increase standard deviation *  1.2
+1582 : increase standard deviation *  1.1
+1583 : increase standard deviation *  1.1
+1585 : increase standard deviation *  1.2
+1587 : increase standard deviation *  1.4
+1588 : increase standard deviation *  1.3
+1595 : increase standard deviation *  1.1
+1606 : increase standard deviation *  1.2
+1607 : increase standard deviation *  1.2
+1611 : increase standard deviation *  1.1
+1612 : increase standard deviation *  1.1
+1614 : increase standard deviation *  1.3
+1616 : increase standard deviation *  1.3
+1619 : increase standard deviation *  1.3
+1623 : increase standard deviation *  1.1
+1624 : increase standard deviation *  1.3
+1627 : increase standard deviation *  1.1
+1633 : increase standard deviation *  1.4
+1634 : increase standard deviation *  1.3
+1635 : increase standard deviation *  1.5
+1636 : increase standard deviation *  1.3
+1642 : increase standard deviation *  1.1
+1643 : increase standard deviation *  1.1
+1650 : increase standard deviation *  1.3
+1653 : increase standard deviation *  1.1
+1654 : increase standard deviation *  1.1
+1656 : increase standard deviation *  1.2
+1657 : increase standard deviation *  1.2
+1662 : increase standard deviation *  1.2
+1665 : increase standard deviation *  1.5
+1666 : increase standard deviation *  1.1
+1667 : increase standard deviation *  1.3
+1679 : increase standard deviation *  1.4
+1690 : increase standard deviation *  1.1
+1694 : increase standard deviation *  1.2
+1705 : increase standard deviation *  1.5
+1707 : increase standard deviation *  1.4
+1710 : increase standard deviation *  1.4
+1714 : increase standard deviation *  1.2
+1718 : increase standard deviation *  1.2
+1720 : increase standard deviation *  1.2
+1721 : increase standard deviation *  1.1
+1722 : increase standard deviation *  1.2
+1723 : increase standard deviation *  1.2
+1725 : increase standard deviation *  1.2
+1726 : increase standard deviation *  1.2
+1729 : increase standard deviation *  1.1
+1738 : increase standard deviation *  1.2
+1740 : increase standard deviation *  1.2
+1743 : increase standard deviation *  1.3
+1746 : increase standard deviation *  1.1
+1748 : increase standard deviation *  1.2
+1752 : increase standard deviation *  1.2
+1753 : increase standard deviation *  1.2
+1755 : increase standard deviation *  1.1
+1759 : increase standard deviation *  1.1
+1765 : increase standard deviation *  1.1
+1769 : increase standard deviation *  1.1
+1777 : increase standard deviation *  1.2
+1781 : increase standard deviation *  1.3
+1783 : increase standard deviation *  1.2
+1786 : increase standard deviation *  1.2
+1789 : increase standard deviation *  1.2
+1791 : increase standard deviation *  1.5
+1792 : increase standard deviation *  1.3
+1798 : increase standard deviation *  1.3
+ Iteration   7,   0 : Calculating Sensitivities
+ Iteration   7,   0 : Updating
+ Iteration   7,   0 : Calculating Potentials
+ Iteration   7,   1 : Updating
+ Iteration   7,   1 : Calculating Potentials
+ Iteration   7,   2 : Updating
+ Iteration   7,   2 : Calculating Potentials
+ Iteration   7,   3 : Updating
+ Iteration   7,   3 : Calculating Potentials
+ Iteration   7,   4 : Updating
+ Iteration   7,   4 : Calculating Potentials
+ Iteration   7,   5 : Updating
+ Iteration   7,   5 : Calculating Potentials
+ Iteration   7,   5 : Updating
+ Iteration   7,   5 : Calculating Potentials
+   3 : increase standard deviation *  1.1
+   7 : increase standard deviation *  1.2
+   8 : increase standard deviation *  1.4
+   9 : increase standard deviation *  1.4
+  12 : increase standard deviation *  1.4
+  15 : increase standard deviation *  1.4
+  16 : increase standard deviation *  1.4
+  24 : increase standard deviation *  1.5
+  25 : increase standard deviation *  1.3
+  26 : increase standard deviation *  1.4
+  28 : increase standard deviation *  1.1
+  31 : increase standard deviation *  1.3
+  33 : increase standard deviation *  1.4
+  37 : increase standard deviation *  1.5
+  39 : increase standard deviation *  1.2
+  48 : increase standard deviation *  1.4
+  60 : increase standard deviation *  1.3
+  63 : increase standard deviation *  1.4
+  66 : increase standard deviation *  1.3
+  68 : increase standard deviation *  1.5
+  70 : increase standard deviation *  1.2
+  77 : increase standard deviation *  1.4
+  87 : increase standard deviation *  1.4
+  88 : increase standard deviation *  1.4
+  91 : increase standard deviation *  1.1
+  93 : increase standard deviation *  1.4
+  94 : increase standard deviation *  1.3
+  95 : increase standard deviation *  1.4
+ 100 : increase standard deviation *  1.1
+ 112 : increase standard deviation *  1.4
+ 113 : increase standard deviation *  1.1
+ 115 : increase standard deviation *  1.5
+ 117 : increase standard deviation *  1.1
+ 118 : increase standard deviation *  1.3
+ 119 : increase standard deviation *  1.4
+ 124 : increase standard deviation *  1.3
+ 138 : increase standard deviation *  1.2
+ 141 : increase standard deviation *  1.4
+ 143 : increase standard deviation *  1.3
+ 144 : increase standard deviation *  1.3
+ 145 : increase standard deviation *  1.4
+ 148 : increase standard deviation *  1.4
+ 152 : increase standard deviation *  1.3
+ 153 : increase standard deviation *  1.3
+ 155 : increase standard deviation *  1.4
+ 156 : increase standard deviation *  1.4
+ 163 : increase standard deviation *  1.5
+ 165 : increase standard deviation *  1.2
+ 169 : increase standard deviation *  1.2
+ 174 : increase standard deviation *  1.4
+ 176 : increase standard deviation *  1.1
+ 177 : increase standard deviation *  1.2
+ 185 : increase standard deviation *  1.1
+ 186 : increase standard deviation *  1.4
+ 187 : increase standard deviation *  1.4
+ 188 : increase standard deviation *  1.4
+ 189 : increase standard deviation *  1.3
+ 193 : increase standard deviation *  1.5
+ 194 : increase standard deviation *  1.2
+ 203 : increase standard deviation *  1.4
+ 213 : increase standard deviation *  1.2
+ 215 : increase standard deviation *  1.5
+ 219 : increase standard deviation *  1.2
+ 222 : increase standard deviation *  1.1
+ 223 : increase standard deviation *  1.4
+ 224 : increase standard deviation *  1.4
+ 225 : increase standard deviation *  1.2
+ 227 : increase standard deviation *  1.2
+ 228 : increase standard deviation *  1.4
+ 229 : increase standard deviation *  1.1
+ 231 : increase standard deviation *  1.4
+ 232 : increase standard deviation *  1.4
+ 233 : increase standard deviation *  1.4
+ 234 : increase standard deviation *  1.2
+ 237 : increase standard deviation *  1.1
+ 239 : increase standard deviation *  1.2
+ 241 : increase standard deviation *  1.2
+ 243 : increase standard deviation *  1.3
+ 244 : increase standard deviation *  1.4
+ 245 : increase standard deviation *  1.3
+ 252 : increase standard deviation *  1.4
+ 255 : increase standard deviation *  1.2
+ 256 : increase standard deviation *  1.1
+ 262 : increase standard deviation *  1.4
+ 263 : increase standard deviation *  1.5
+ 264 : increase standard deviation *  1.3
+ 268 : increase standard deviation *  1.2
+ 277 : increase standard deviation *  1.2
+ 290 : increase standard deviation *  1.1
+ 291 : increase standard deviation *  1.2
+ 302 : increase standard deviation *  1.4
+ 303 : increase standard deviation *  1.3
+ 304 : increase standard deviation *  1.4
+ 305 : increase standard deviation *  1.3
+ 306 : increase standard deviation *  1.4
+ 308 : increase standard deviation *  1.4
+ 309 : increase standard deviation *  1.4
+ 310 : increase standard deviation *  1.1
+ 322 : increase standard deviation *  1.3
+ 334 : increase standard deviation *  1.1
+ 336 : increase standard deviation *  1.3
+ 346 : increase standard deviation *  1.5
+ 347 : increase standard deviation *  1.4
+ 348 : increase standard deviation *  1.3
+ 352 : increase standard deviation *  1.1
+ 357 : increase standard deviation *  1.1
+ 362 : increase standard deviation *  1.4
+ 365 : increase standard deviation *  1.4
+ 367 : increase standard deviation *  1.5
+ 368 : increase standard deviation *  1.2
+ 370 : increase standard deviation *  1.2
+ 372 : increase standard deviation *  1.2
+ 374 : increase standard deviation *  1.2
+ 375 : increase standard deviation *  1.4
+ 376 : increase standard deviation *  1.4
+ 379 : increase standard deviation *  1.4
+ 381 : increase standard deviation *  1.4
+ 382 : increase standard deviation *  1.2
+ 384 : increase standard deviation *  1.3
+ 390 : increase standard deviation *  1.2
+ 392 : increase standard deviation *  1.2
+ 394 : increase standard deviation *  1.3
+ 395 : increase standard deviation *  1.4
+ 396 : increase standard deviation *  1.4
+ 397 : increase standard deviation *  1.4
+ 398 : increase standard deviation *  1.5
+ 421 : increase standard deviation *  1.5
+ 425 : increase standard deviation *  1.4
+ 430 : increase standard deviation *  1.5
+ 431 : increase standard deviation *  1.1
+ 433 : increase standard deviation *  1.4
+ 436 : increase standard deviation *  1.4
+ 438 : increase standard deviation *  1.1
+ 439 : increase standard deviation *  1.1
+ 441 : increase standard deviation *  1.3
+ 442 : increase standard deviation *  1.4
+ 444 : increase standard deviation *  1.2
+ 457 : increase standard deviation *  1.2
+ 462 : increase standard deviation *  1.2
+ 466 : increase standard deviation *  1.4
+ 467 : increase standard deviation *  1.3
+ 469 : increase standard deviation *  1.4
+ 471 : increase standard deviation *  1.3
+ 478 : increase standard deviation *  1.1
+ 481 : increase standard deviation *  1.3
+ 484 : increase standard deviation *  1.4
+ 486 : increase standard deviation *  1.1
+ 487 : increase standard deviation *  1.4
+ 489 : increase standard deviation *  1.4
+ 491 : increase standard deviation *  1.4
+ 497 : increase standard deviation *  1.2
+ 503 : increase standard deviation *  1.2
+ 507 : increase standard deviation *  1.1
+ 510 : increase standard deviation *  1.4
+ 516 : increase standard deviation *  1.5
+ 525 : increase standard deviation *  1.4
+ 533 : increase standard deviation *  1.4
+ 534 : increase standard deviation *  1.3
+ 541 : increase standard deviation *  1.3
+ 544 : increase standard deviation *  1.4
+ 546 : increase standard deviation *  1.4
+ 553 : increase standard deviation *  1.1
+ 555 : increase standard deviation *  1.4
+ 556 : increase standard deviation *  1.4
+ 559 : increase standard deviation *  1.1
+ 560 : increase standard deviation *  1.2
+ 562 : increase standard deviation *  1.2
+ 567 : increase standard deviation *  1.5
+ 568 : increase standard deviation *  1.2
+ 571 : increase standard deviation *  1.2
+ 575 : increase standard deviation *  1.1
+ 585 : increase standard deviation *  1.3
+ 595 : increase standard deviation *  1.1
+ 596 : increase standard deviation *  1.4
+ 597 : increase standard deviation *  1.4
+ 599 : increase standard deviation *  1.3
+ 600 : increase standard deviation *  1.3
+ 602 : increase standard deviation *  1.4
+ 603 : increase standard deviation *  1.2
+ 604 : increase standard deviation *  1.1
+ 605 : increase standard deviation *  1.1
+ 606 : increase standard deviation *  1.3
+ 608 : increase standard deviation *  1.3
+ 609 : increase standard deviation *  1.3
+ 610 : increase standard deviation *  1.2
+ 611 : increase standard deviation *  1.4
+ 616 : increase standard deviation *  1.1
+ 621 : increase standard deviation *  1.4
+ 622 : increase standard deviation *  1.4
+ 625 : increase standard deviation *  1.4
+ 626 : increase standard deviation *  1.1
+ 637 : increase standard deviation *  1.2
+ 638 : increase standard deviation *  1.3
+ 640 : increase standard deviation *  1.2
+ 645 : increase standard deviation *  1.4
+ 649 : increase standard deviation *  1.2
+ 654 : increase standard deviation *  1.3
+ 663 : increase standard deviation *  1.1
+ 667 : increase standard deviation *  1.1
+ 669 : increase standard deviation *  1.2
+ 671 : increase standard deviation *  1.2
+ 672 : increase standard deviation *  1.4
+ 673 : increase standard deviation *  1.4
+ 679 : increase standard deviation *  1.4
+ 684 : increase standard deviation *  1.4
+ 692 : increase standard deviation *  1.4
+ 693 : increase standard deviation *  1.3
+ 695 : increase standard deviation *  1.4
+ 699 : increase standard deviation *  1.3
+ 704 : increase standard deviation *  1.3
+ 706 : increase standard deviation *  1.2
+ 713 : increase standard deviation *  1.4
+ 716 : increase standard deviation *  1.5
+ 718 : increase standard deviation *  1.2
+ 727 : increase standard deviation *  1.4
+ 728 : increase standard deviation *  1.2
+ 734 : increase standard deviation *  1.4
+ 738 : increase standard deviation *  1.1
+ 739 : increase standard deviation *  1.3
+ 740 : increase standard deviation *  1.1
+ 741 : increase standard deviation *  1.2
+ 742 : increase standard deviation *  1.2
+ 747 : increase standard deviation *  1.3
+ 751 : increase standard deviation *  1.2
+ 755 : increase standard deviation *  1.5
+ 760 : increase standard deviation *  1.4
+ 761 : increase standard deviation *  1.3
+ 777 : increase standard deviation *  1.2
+ 779 : increase standard deviation *  1.2
+ 783 : increase standard deviation *  1.2
+ 786 : increase standard deviation *  1.4
+ 788 : increase standard deviation *  1.3
+ 790 : increase standard deviation *  1.4
+ 791 : increase standard deviation *  1.5
+ 792 : increase standard deviation *  1.2
+ 795 : increase standard deviation *  1.4
+ 796 : increase standard deviation *  1.2
+ 797 : increase standard deviation *  1.4
+ 799 : increase standard deviation *  1.4
+ 806 : increase standard deviation *  1.1
+ 808 : increase standard deviation *  1.2
+ 810 : increase standard deviation *  1.3
+ 811 : increase standard deviation *  1.3
+ 814 : increase standard deviation *  1.1
+ 816 : increase standard deviation *  1.4
+ 817 : increase standard deviation *  1.4
+ 830 : increase standard deviation *  1.5
+ 831 : increase standard deviation *  1.1
+ 834 : increase standard deviation *  1.4
+ 841 : increase standard deviation *  1.4
+ 848 : increase standard deviation *  1.4
+ 863 : increase standard deviation *  1.4
+ 873 : increase standard deviation *  1.2
+ 874 : increase standard deviation *  1.1
+ 882 : increase standard deviation *  1.3
+ 884 : increase standard deviation *  1.4
+ 891 : increase standard deviation *  1.2
+ 899 : increase standard deviation *  1.4
+ 903 : increase standard deviation *  1.1
+ 906 : increase standard deviation *  1.4
+ 910 : increase standard deviation *  1.3
+ 912 : increase standard deviation *  1.3
+ 915 : increase standard deviation *  1.4
+ 916 : increase standard deviation *  1.2
+ 917 : increase standard deviation *  1.4
+ 920 : increase standard deviation *  1.4
+ 925 : increase standard deviation *  1.1
+ 933 : increase standard deviation *  1.5
+ 948 : increase standard deviation *  1.2
+ 949 : increase standard deviation *  1.3
+ 950 : increase standard deviation *  1.3
+ 951 : increase standard deviation *  1.3
+ 959 : increase standard deviation *  1.3
+ 962 : increase standard deviation *  1.3
+ 966 : increase standard deviation *  1.2
+ 979 : increase standard deviation *  1.4
+ 981 : increase standard deviation *  1.3
+ 983 : increase standard deviation *  1.3
+ 996 : increase standard deviation *  1.2
+ 997 : increase standard deviation *  1.5
+ 998 : increase standard deviation *  1.3
+1002 : increase standard deviation *  1.4
+1003 : increase standard deviation *  1.3
+1004 : increase standard deviation *  1.1
+1011 : increase standard deviation *  1.3
+1012 : increase standard deviation *  1.1
+1015 : increase standard deviation *  1.1
+1026 : increase standard deviation *  1.2
+1033 : increase standard deviation *  1.2
+1048 : increase standard deviation *  1.3
+1049 : increase standard deviation *  1.3
+1050 : increase standard deviation *  1.3
+1051 : increase standard deviation *  1.2
+1052 : increase standard deviation *  1.4
+1053 : increase standard deviation *  1.1
+1061 : increase standard deviation *  1.1
+1062 : increase standard deviation *  1.5
+1067 : increase standard deviation *  1.4
+1076 : increase standard deviation *  1.1
+1091 : increase standard deviation *  1.3
+1093 : increase standard deviation *  1.6
+1096 : increase standard deviation *  1.2
+1099 : increase standard deviation *  1.2
+1105 : increase standard deviation *  1.5
+1106 : increase standard deviation *  1.4
+1112 : increase standard deviation *  1.4
+1120 : increase standard deviation *  1.5
+1121 : increase standard deviation *  1.4
+1123 : increase standard deviation *  1.5
+1129 : increase standard deviation *  1.3
+1135 : increase standard deviation *  1.2
+1138 : increase standard deviation *  1.5
+1153 : increase standard deviation *  1.2
+1154 : increase standard deviation *  1.1
+1155 : increase standard deviation *  1.2
+1162 : increase standard deviation *  1.4
+1163 : increase standard deviation *  1.4
+1175 : increase standard deviation *  1.4
+1181 : increase standard deviation *  1.2
+1184 : increase standard deviation *  1.3
+1185 : increase standard deviation *  1.6
+1186 : increase standard deviation *  1.4
+1187 : increase standard deviation *  1.4
+1194 : increase standard deviation *  1.4
+1196 : increase standard deviation *  1.5
+1198 : increase standard deviation *  1.1
+1200 : increase standard deviation *  1.2
+1207 : increase standard deviation *  1.4
+1214 : increase standard deviation *  1.2
+1221 : increase standard deviation *  1.4
+1223 : increase standard deviation *  1.5
+1224 : increase standard deviation *  1.1
+1225 : increase standard deviation *  1.4
+1226 : increase standard deviation *  1.3
+1228 : increase standard deviation *  1.3
+1239 : increase standard deviation *  1.4
+1257 : increase standard deviation *  1.2
+1262 : increase standard deviation *  1.6
+1264 : increase standard deviation *  1.3
+1277 : increase standard deviation *  1.2
+1294 : increase standard deviation *  1.3
+1295 : increase standard deviation *  1.3
+1296 : increase standard deviation *  1.2
+1304 : increase standard deviation *  1.3
+1307 : increase standard deviation *  1.2
+1312 : increase standard deviation *  1.1
+1313 : increase standard deviation *  1.3
+1315 : increase standard deviation *  1.4
+1318 : increase standard deviation *  1.4
+1320 : increase standard deviation *  1.4
+1323 : increase standard deviation *  1.3
+1324 : increase standard deviation *  1.4
+1325 : increase standard deviation *  1.4
+1326 : increase standard deviation *  1.3
+1329 : increase standard deviation *  1.4
+1331 : increase standard deviation *  1.2
+1333 : increase standard deviation *  1.2
+1334 : increase standard deviation *  1.3
+1337 : increase standard deviation *  1.7
+1339 : increase standard deviation *  1.4
+1344 : increase standard deviation *  1.4
+1345 : increase standard deviation *  1.4
+1352 : increase standard deviation *  1.2
+1354 : increase standard deviation *  1.3
+1355 : increase standard deviation *  1.4
+1358 : increase standard deviation *  1.4
+1359 : increase standard deviation *  1.3
+1361 : increase standard deviation *  1.4
+1362 : increase standard deviation *  1.4
+1365 : increase standard deviation *  1.4
+1376 : increase standard deviation *  1.4
+1384 : increase standard deviation *  1.5
+1391 : increase standard deviation *  1.6
+1392 : increase standard deviation *  1.5
+1400 : increase standard deviation *  1.2
+1401 : increase standard deviation *  1.4
+1404 : increase standard deviation *  1.4
+1405 : increase standard deviation *  1.2
+1410 : increase standard deviation *  1.3
+1413 : increase standard deviation *  1.2
+1420 : increase standard deviation *  1.1
+1429 : increase standard deviation *  1.3
+1431 : increase standard deviation *  1.1
+1437 : increase standard deviation *  1.4
+1438 : increase standard deviation *  1.4
+1440 : increase standard deviation *  1.4
+1445 : increase standard deviation *  1.2
+1448 : increase standard deviation *  1.4
+1451 : increase standard deviation *  1.1
+1454 : increase standard deviation *  1.5
+1457 : increase standard deviation *  1.6
+1462 : increase standard deviation *  1.4
+1471 : increase standard deviation *  1.1
+1475 : increase standard deviation *  1.4
+1478 : increase standard deviation *  1.4
+1481 : increase standard deviation *  1.4
+1482 : increase standard deviation *  1.4
+1483 : increase standard deviation *  1.4
+1509 : increase standard deviation *  1.4
+1512 : increase standard deviation *  1.4
+1515 : increase standard deviation *  1.6
+1521 : increase standard deviation *  1.1
+1525 : increase standard deviation *  1.4
+1526 : increase standard deviation *  1.2
+1528 : increase standard deviation *  1.2
+1541 : increase standard deviation *  1.1
+1542 : increase standard deviation *  1.2
+1550 : increase standard deviation *  1.4
+1552 : increase standard deviation *  1.4
+1554 : increase standard deviation *  1.3
+1562 : increase standard deviation *  1.1
+1564 : increase standard deviation *  1.3
+1565 : increase standard deviation *  1.1
+1567 : increase standard deviation *  1.4
+1574 : increase standard deviation *  1.3
+1580 : increase standard deviation *  1.5
+1584 : increase standard deviation *  1.2
+1585 : increase standard deviation *  1.3
+1587 : increase standard deviation *  1.4
+1588 : increase standard deviation *  1.3
+1600 : increase standard deviation *  1.2
+1604 : increase standard deviation *  1.4
+1608 : increase standard deviation *  1.3
+1614 : increase standard deviation *  1.4
+1616 : increase standard deviation *  1.4
+1618 : increase standard deviation *  1.4
+1622 : increase standard deviation *  1.5
+1624 : increase standard deviation *  1.4
+1626 : increase standard deviation *  1.3
+1633 : increase standard deviation *  1.4
+1634 : increase standard deviation *  1.3
+1635 : increase standard deviation *  1.5
+1636 : increase standard deviation *  1.2
+1640 : increase standard deviation *  1.1
+1641 : increase standard deviation *  1.3
+1642 : increase standard deviation *  1.3
+1663 : increase standard deviation *  1.2
+1665 : increase standard deviation *  1.4
+1666 : increase standard deviation *  1.2
+1667 : increase standard deviation *  1.4
+1673 : increase standard deviation *  1.1
+1678 : increase standard deviation *  1.3
+1679 : increase standard deviation *  1.4
+1681 : increase standard deviation *  1.5
+1685 : increase standard deviation *  1.2
+1696 : increase standard deviation *  1.3
+1698 : increase standard deviation *  1.1
+1705 : increase standard deviation *  1.4
+1707 : increase standard deviation *  1.4
+1710 : increase standard deviation *  1.4
+1713 : increase standard deviation *  1.2
+1717 : increase standard deviation *  1.1
+1727 : increase standard deviation *  1.3
+1728 : increase standard deviation *  1.5
+1729 : increase standard deviation *  1.3
+1730 : increase standard deviation *  1.3
+1732 : increase standard deviation *  1.3
+1743 : increase standard deviation *  1.3
+1747 : increase standard deviation *  1.2
+1764 : increase standard deviation *  1.4
+1768 : increase standard deviation *  1.2
+1779 : increase standard deviation *  1.3
+1780 : increase standard deviation *  1.5
+1789 : increase standard deviation *  1.5
+1791 : increase standard deviation *  1.4
+1792 : increase standard deviation *  1.3
+1798 : increase standard deviation *  1.2
+ Iteration terminated: Min. RMS.
+ CPU time:  0hrs  0min
