@@ -33,7 +33,7 @@ Contains a CRTOMO configuration file crtritime.cfg.
 ##### data
 
 Contains data files (electrode configuration, tomography results, elevation data...). 
-Note that the original field dataset is not included in the repository for confidentiality reasons. Instead, fake data has been generated in the field_data.dat file.
+Note that the original field dataset is not included in the repository for confidentiality reasons. Instead, fake data "resembling" the original has been generated in the field_data.dat file.
 
 ##### ip
 

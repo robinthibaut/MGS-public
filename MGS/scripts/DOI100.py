@@ -1,5 +1,5 @@
 """
-Compute the DOI with resistivity value 10
+Compute the DOI with resistivity value 100
 """
 
 #  Copyright (c) 2021. Robin Thibaut, Ghent University

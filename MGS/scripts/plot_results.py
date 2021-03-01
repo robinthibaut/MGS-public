@@ -20,12 +20,12 @@ mesh_dir = jp(cwd, "mesh", sub_folder_name)  # Mesh files directory
 labelsize = 12
 bpos = 0.38
 
-mshf = "/Users/robin/PycharmProjects/MGS/mesh/paper/Mesh.dat"
+mshf = jp(mesh_dir, "Mesh.dat")
 ncol, nlin, nelem, blocks, centerxy, nodes = crc.mesh_geometry(mshf)
 
 # %% MODEL MISFIT
-true_model = jp("/Users/robin/PycharmProjects/MGS",
-                "data/paper/models/forwardscenario.dat")
+true_model = jp(cwd, "data", sub_folder_name, "models",
+                "forwardscenario.dat")
 
 # Load true model
 resmod = crc.datread(true_model, start=1)[:, 2]
@@ -35,7 +35,7 @@ m2p = -1.234598
 res_levels = 10**np.linspace(min(resmod), max(resmod), 10)
 ip_levels = np.linspace(min(ipmod / m2p), 150, 10)
 
-true_data = crc.datread("data/paper/field_data.dat", start=1)
+true_data = crc.datread(jp(cwd, "data", "paper", "field_data.dat"), start=1)
 a = true_data[:, 0] * 5
 b = true_data[:, 1] * 5
 m = true_data[:, 2] * 5
@@ -44,14 +44,14 @@ n = true_data[:, 3] * 5
 xy = np.column_stack([(m + n) / 2, -np.min(
     ((m + n) / 2 - a, b - (m + n) / 2), axis=0) / 3])
 
-results_dir = jp("/Users/robin/PycharmProjects/MGS",
-                 "results/paper/field_data/WFB")
+results_dir = jp(cwd,
+                 "results", "paper", "field_data", "WFB")
 
 # %% STEPI Smooth
 # Load solution
 
-results_dir = jp("/Users/robin/PycharmProjects/MGS",
-                 "results/paper/field_data/WFB")
+results_dir = jp(cwd,
+                 "results", "paper", "field_data", "WFB")
 subs = "STEPI"
 result_folder = jp(results_dir, subs)
 sol, files = crc.import_res(result_folder=result_folder, return_file=1)
@@ -154,14 +154,13 @@ plt.scatter(xy[:, 0],
 plt.show()
 
 # %% STEPII Interpreted model
-results_dir = jp("/Users/robin/PycharmProjects/MGS",
-                 "results/paper/field_data/WFB")
+results_dir = jp(cwd,
+                 "results", "paper", "field_data", "WFB")
 subs = "STEPII"
 result_folder = jp(results_dir, subs)
 
 int_mod_file = jp(
-    "/Users/robin/PycharmProjects/MGS",
-    "results/paper/field_data/WFB/STEPII/field_data_interpreted.dat",
+   results_dir, "STEPII", "field_data_interpreted.dat",
 )
 
 int_mod = crc.datread(int_mod_file, start=1)[:, 2]
@@ -204,8 +203,8 @@ model_map(
 plt.show()
 
 # %% STEPIV Ref model smooth
-results_dir = jp("/Users/robin/PycharmProjects/MGS",
-                 "results/paper/field_data/WFB")
+results_dir = jp(cwd,
+                 "results", "paper", "field_data", "WFB")
 subs = "STEPIV_ref"
 result_folder = jp(results_dir, subs)
 
@@ -251,8 +250,8 @@ model_map(
 plt.show()
 
 # %% WFA
-results_dir = jp("/Users/robin/PycharmProjects/MGS",
-                 "results/paper/field_data/WFA_12")
+results_dir = jp(cwd,
+                 "results", "paper", "field_data/WFA_12")
 subs = ""
 result_folder = jp(results_dir, subs)
 
@@ -303,15 +302,15 @@ plt.show()
 
 # Load solution
 
-results_dir = jp("/Users/robin/PycharmProjects/MGS",
-                 "results/paper/field_data/DOI")
+results_dir = jp(cwd,
+                 "results", "paper", "field_data", "DOI")
 subs = "DOI10"
 result_folder = jp(results_dir, subs)
 sol, files = crc.import_res(result_folder=result_folder, return_file=1)
 res10 = sol[0]
 
-results_dir = jp("/Users/robin/PycharmProjects/MGS",
-                 "results/paper/field_data/DOI")
+results_dir = jp(cwd,
+                 "results", "paper", "field_data", "DOI")
 subs = "DOI1000"
 result_folder = jp(results_dir, subs)
 sol, files = crc.import_res(result_folder=result_folder, return_file=1)
