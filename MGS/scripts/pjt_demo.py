@@ -19,44 +19,47 @@ from tomopal.geoview.diavatly import model_map
 # they will be automatically generated once you initialize a crtomo object.
 
 cwd = inventory.hello()  # Current working directory of the project
-data_dir = jp(cwd, 'data', 'paper')  # Data files directory
-mesh_dir = jp(cwd, 'mesh', 'paper')  # Mesh files directory
-iso_dir = jp(cwd, 'iso', 'demo')  # ISO file dir
-ref_dir = jp(cwd, 'ref', 'demo')  # Reference model files dir
-start_dir = jp(cwd, 'start', 'demo')  # Start model files dir
-results_dir = jp(cwd, 'results')  # Results files directory
+data_dir = jp(cwd, "data", "paper")  # Data files directory
+mesh_dir = jp(cwd, "mesh", "paper")  # Mesh files directory
+iso_dir = jp(cwd, "iso", "demo")  # ISO file dir
+ref_dir = jp(cwd, "ref", "demo")  # Reference model files dir
+start_dir = jp(cwd, "start", "demo")  # Start model files dir
+results_dir = jp(cwd, "results")  # Results files directory
 
 # %% Exe names
 
 # Input here the path to your exe files.
 
-mesh_exe_name = jp(cwd, 'mesh.exe')
-crtomo_exe_name = jp(cwd, 'crtomo.exe')
+mesh_exe_name = jp(cwd, "mesh.exe")
+crtomo_exe_name = jp(cwd, "crtomo.exe")
 
 # %%  Create crtomo object
 
 # Folders will be generated here if they don't exist already.
 
-myinv = crc.Crtomo(working_dir=cwd,
-                   data_dir=data_dir,
-                   mesh_dir=mesh_dir,
-                   iso_dir=iso_dir,
-                   ref_dir=ref_dir,
-                   start_dir=start_dir,
-                   crtomo_exe=crtomo_exe_name,
-                   mesh_exe=mesh_exe_name)
+myinv = crc.Crtomo(
+    working_dir=cwd,
+    data_dir=data_dir,
+    mesh_dir=mesh_dir,
+    iso_dir=iso_dir,
+    ref_dir=ref_dir,
+    start_dir=start_dir,
+    crtomo_exe=crtomo_exe_name,
+    mesh_exe=mesh_exe_name,
+)
 
 # %%  Generating the mesh
 
 # Data file name A B M N R in meters
-df = jp(data_dir, 'elecs.dat')  # Path to electrode configuration file
+df = jp(data_dir, "elecs.dat")  # Path to electrode configuration file
 dat = crc.datread(df)  # Use built-in function to extract data (optional)
 
 # Electrode spacing in meters
 es = 5
 
 #  Electrodes elevation
-ef = jp(data_dir, 'field_data_elevation.dat')  # Data elevation file name X Z in meters
+# Data elevation file name X Z in meters
+ef = jp(data_dir, "field_data_elevation.dat")
 elev = crc.datread(ef)  # Use built-in function to extract data (optional)
 
 # %% Make the mesh
@@ -74,7 +77,7 @@ elev = crc.datread(ef)  # Use built-in function to extract data (optional)
 
 # %% Read the mesh data (number of cells, blocks coordinates, x-y coordinates of the center of the blocks) from Mesh.dat
 
-mshf = jp(mesh_dir, 'Mesh.dat')  # Path to the generated 'Mesh.dat' file.
+mshf = jp(mesh_dir, "Mesh.dat")  # Path to the generated 'Mesh.dat' file.
 ncol, nlin, nelem, blocks, centerxy = crc.mesh_geometry(mshf)
 
 # %% Buid configuration file
@@ -83,16 +86,17 @@ ncol, nlin, nelem, blocks, centerxy = crc.mesh_geometry(mshf)
 mesh_file = mshf
 
 # 1 elec.dat file
-elec_file = jp(mesh_dir, 'elec.dat')
+elec_file = jp(mesh_dir, "elec.dat")
 
 # 2 Data file
-data_file = jp(data_dir, 'field_data.dat')
+data_file = jp(data_dir, "field_data.dat")
 
 # 3 Results folder file
 
 # Specify the path where the results will be loaded
 
-frname = 'demo_test'  # If you want to save the results in a sub-folder in the main results folder
+# If you want to save the results in a sub-folder in the main results folder
+frname = "demo_test"
 
 result_folder = jp(results_dir, frname)
 
@@ -161,7 +165,7 @@ starting_model = 0
 starting_model_file = None
 
 # %% 19 ISO file 1
-iso_file1 = jp(iso_dir, 'iso.dat')
+iso_file1 = jp(iso_dir, "iso.dat")
 
 # dm = datread(starting_model_file, header=1)[:, 0]
 # isom = ModelMaker(blocks=blocks, values=dm, values_log=1, bck=1)
@@ -170,7 +174,6 @@ iso_file1 = jp(iso_dir, 'iso.dat')
 #     rw.write(str(nelem)+'\n')
 #     [rw.write('{} 1'.format(str(i))+'\n') for i in isom.final_results]
 #     rw.close()
-
 
 # %% Generate configuration file
 
@@ -230,7 +233,6 @@ iso_file1 = jp(iso_dir, 'iso.dat')
 
 # %% Import results
 
-
 # If you have IP results:
 # res, ip = import_res(result_folder=result_folder)
 # m2p = mtophase(ncycles=1, pulse_l=3.5, tmin=0.02, tmax=2.83)
@@ -246,23 +248,41 @@ rest = np.copy(res[0])
 # Remove outliers (arbitrary)
 cut = np.log10(4500)
 rest[rest > cut] = cut
-res_levels = 10 ** np.linspace(min(rest), cut, 10)  # Define a linear space for the color map
-rtp = 10 ** np.copy(rest)
+# Define a linear space for the color map
+res_levels = 10**np.linspace(min(rest), cut, 10)
+rtp = 10**np.copy(rest)
 # Use the model_map function to display the computed resistivity:
-model_map(polygons=blocks, vals=rtp, log=1, cbpos=0.4, levels=res_levels, folder=result_folder,
-          figname=frname + '_levels')
+model_map(
+    polygons=blocks,
+    vals=rtp,
+    log=1,
+    cbpos=0.4,
+    levels=res_levels,
+    folder=result_folder,
+    figname=frname + "_levels",
+)
 
 # %% if IP
 if not dc:
     ip = np.copy(res[1])
-    m2p = crc.mtophase(ncycles=1, pulse_l=3.5, tmin=0.02, tmax=2.83, mpath=jp(cwd, 'ip'))
+    m2p = crc.mtophase(ncycles=1,
+                       pulse_l=3.5,
+                       tmin=0.02,
+                       tmax=2.83,
+                       mpath=jp(cwd, "ip"))
     ipt = np.copy(np.abs(ip / m2p))
-    hist = np.histogram(ipt, bins='auto')
+    hist = np.histogram(ipt, bins="auto")
 
     cut = 260
     ipt[ipt > cut] = cut
 
     ip_levels = [0, 10, 20, 30, 40, 50, 60, 70, 260]
 
-    model_map(polygons=blocks, vals=ipt, log=0, levels=ip_levels, folder=result_folder,
-              figname='demo1iplevel')
+    model_map(
+        polygons=blocks,
+        vals=ipt,
+        log=0,
+        levels=ip_levels,
+        folder=result_folder,
+        figname="demo1iplevel",
+    )
