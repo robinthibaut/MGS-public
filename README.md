@@ -1,5 +1,4 @@
 # MGS-public
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4763a876682f4f36af7240b4c92882a6)](https://app.codacy.com/gh/robinthibaut/MGS-public?utm_source=github.com&utm_medium=referral&utm_content=robinthibaut/MGS-public&utm_campaign=Badge_Grade_Settings)
 
 ### [A new workflow to incorporate prior information in minimum gradient support (MGS) inversion of electrical resistivity and induced polarization data](https://www.sciencedirect.com/science/article/abs/pii/S0926985121000331)
 
