@@ -24,8 +24,7 @@ mshf = jp(mesh_dir, "Mesh.dat")
 ncol, nlin, nelem, blocks, centerxy, nodes = crc.mesh_geometry(mshf)
 
 # %% MODEL MISFIT
-true_model = jp(cwd, "data", sub_folder_name, "models",
-                "forwardscenario.dat")
+true_model = jp(cwd, "data", sub_folder_name, "models", "forwardscenario.dat")
 
 # Load true model
 resmod = crc.datread(true_model, start=1)[:, 2]
@@ -44,14 +43,12 @@ n = true_data[:, 3] * 5
 xy = np.column_stack([(m + n) / 2, -np.min(
     ((m + n) / 2 - a, b - (m + n) / 2), axis=0) / 3])
 
-results_dir = jp(cwd,
-                 "results", "paper", "field_data", "WFB")
+results_dir = jp(cwd, "results", "paper", "field_data", "WFB")
 
 # %% STEPI Smooth
 # Load solution
 
-results_dir = jp(cwd,
-                 "results", "paper", "field_data", "WFB")
+results_dir = jp(cwd, "results", "paper", "field_data", "WFB")
 subs = "STEPI"
 result_folder = jp(results_dir, subs)
 sol, files = crc.import_res(result_folder=result_folder, return_file=1)
@@ -154,13 +151,14 @@ plt.scatter(xy[:, 0],
 plt.show()
 
 # %% STEPII Interpreted model
-results_dir = jp(cwd,
-                 "results", "paper", "field_data", "WFB")
+results_dir = jp(cwd, "results", "paper", "field_data", "WFB")
 subs = "STEPII"
 result_folder = jp(results_dir, subs)
 
 int_mod_file = jp(
-   results_dir, "STEPII", "field_data_interpreted.dat",
+    results_dir,
+    "STEPII",
+    "field_data_interpreted.dat",
 )
 
 int_mod = crc.datread(int_mod_file, start=1)[:, 2]
@@ -203,8 +201,7 @@ model_map(
 plt.show()
 
 # %% STEPIV Ref model smooth
-results_dir = jp(cwd,
-                 "results", "paper", "field_data", "WFB")
+results_dir = jp(cwd, "results", "paper", "field_data", "WFB")
 subs = "STEPIV_ref"
 result_folder = jp(results_dir, subs)
 
@@ -250,8 +247,7 @@ model_map(
 plt.show()
 
 # %% WFA
-results_dir = jp(cwd,
-                 "results", "paper", "field_data/WFA_12")
+results_dir = jp(cwd, "results", "paper", "field_data/WFA_12")
 subs = ""
 result_folder = jp(results_dir, subs)
 
@@ -302,15 +298,13 @@ plt.show()
 
 # Load solution
 
-results_dir = jp(cwd,
-                 "results", "paper", "field_data", "DOI")
+results_dir = jp(cwd, "results", "paper", "field_data", "DOI")
 subs = "DOI10"
 result_folder = jp(results_dir, subs)
 sol, files = crc.import_res(result_folder=result_folder, return_file=1)
 res10 = sol[0]
 
-results_dir = jp(cwd,
-                 "results", "paper", "field_data", "DOI")
+results_dir = jp(cwd, "results", "paper", "field_data", "DOI")
 subs = "DOI1000"
 result_folder = jp(results_dir, subs)
 sol, files = crc.import_res(result_folder=result_folder, return_file=1)
